@@ -1,0 +1,35 @@
+{
+  "video_id": "7616812420924722439",
+  "content_summary": "A Spanish Roblox gameplay video showcases custom kill sound IDs paired with loud anime and meme voice lines displayed alongside code numbers.",
+  "narrative_skeleton": "Direct question hook addressing a niche community need -> rapid-fire catalogue demonstration displaying item codes synchronized with audio samples.",
+  "hook_type": "other",
+  "hook_timing_sec": 1.0,
+  "pacing": "fast",
+  "has_spoken_dialogue": true,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "chaotic and playful",
+  "scores": {
+    "narrative_transferability": {
+      "value": 2,
+      "reasoning": "A basic catalogue/listicle structure, but heavily tied to game code lookups and short soundbite clips."
+    },
+    "hook_strength": {
+      "value": 2,
+      "reasoning": "Appeals only to players of a specific game mode via text question; low scroll-stopping power for general audiences."
+    },
+    "production_feasibility": {
+      "value": 4,
+      "reasoning": "Easily made using screen recording, simple text overlays, and audio cuts."
+    },
+    "brand_fit": {
+      "value": 1,
+      "reasoning": "Loud, chaotic combat gameplay and meme audio directly conflict with the brand's calm, slow-ritual aesthetic."
+    },
+    "licensing_safety": {
+      "value": 2,
+      "reasoning": "Contains numerous copyrighted anime voice snippets, meme audio tracks, and Roblox platform assets."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

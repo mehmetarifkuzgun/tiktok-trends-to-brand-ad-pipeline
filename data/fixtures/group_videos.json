@@ -1,0 +1,181 @@
+[
+  {
+    "id": "7656890735513505046",
+    "submittedVideoUrl": "https://www.tiktok.com/@example_creator/video/7656890735513505046",
+    "webVideoUrl": "https://www.tiktok.com/@example_creator/video/7656890735513505046",
+    "searchQuery": null,
+    "text": "example caption #freakedout #bobgirl",
+    "createTimeISO": "2026-09-01T14:00:00.000Z",
+    "hashtags": [
+      {
+        "name": "freakedout"
+      },
+      {
+        "name": "bobgirl"
+      }
+    ],
+    "musicMeta": {
+      "musicName": "FREAKED OUT - Fat Papi & prodshushy"
+    },
+    "videoMeta": {
+      "duration": 21,
+      "downloadAddr": null
+    },
+    "diggCount": 245000,
+    "playCount": 3100000,
+    "commentCount": 4200,
+    "shareCount": 9800
+  },
+  {
+    "id": "7669528530522361102",
+    "submittedVideoUrl": "https://www.tiktok.com/@example_creator/video/7669528530522361102",
+    "webVideoUrl": "https://www.tiktok.com/@example_creator/video/7669528530522361102",
+    "searchQuery": null,
+    "text": "example caption #hairtok #haircare",
+    "createTimeISO": "2026-09-05T09:00:00.000Z",
+    "hashtags": [
+      {
+        "name": "hairtok"
+      },
+      {
+        "name": "haircare"
+      }
+    ],
+    "musicMeta": {
+      "musicName": "nowhere, nobody - Ariana Grande"
+    },
+    "videoMeta": {
+      "duration": 30,
+      "downloadAddr": null
+    },
+    "diggCount": 51000,
+    "playCount": 780000,
+    "commentCount": 900,
+    "shareCount": 1200
+  },
+  {
+    "id": "7678196941913607455",
+    "submittedVideoUrl": "https://www.tiktok.com/@example_creator/video/7678196941913607455",
+    "webVideoUrl": "https://www.tiktok.com/@example_creator/video/7678196941913607455",
+    "searchQuery": null,
+    "text": "example caption #fyp #pitbull #rescue",
+    "createTimeISO": "2026-09-11T12:00:00.000Z",
+    "hashtags": [
+      {
+        "name": "fyp"
+      },
+      {
+        "name": "pitbull"
+      },
+      {
+        "name": "rescue"
+      }
+    ],
+    "musicMeta": {
+      "musicName": "original sound - Angelo David"
+    },
+    "videoMeta": {
+      "duration": 28,
+      "downloadAddr": null
+    },
+    "diggCount": 90000,
+    "playCount": 1200000,
+    "commentCount": 3300,
+    "shareCount": 4100
+  },
+  {
+    "id": "7671289748664651028",
+    "submittedVideoUrl": "https://www.tiktok.com/@example_creator/video/7671289748664651028",
+    "webVideoUrl": "https://www.tiktok.com/@example_creator/video/7671289748664651028",
+    "searchQuery": null,
+    "text": "example caption ",
+    "createTimeISO": "2026-09-14T08:00:00.000Z",
+    "hashtags": [],
+    "musicMeta": {
+      "musicName": "original sound - Yartrix"
+    },
+    "videoMeta": {
+      "duration": 15,
+      "downloadAddr": null
+    },
+    "diggCount": 2400000,
+    "playCount": 18000000,
+    "commentCount": 21000,
+    "shareCount": 55000
+  },
+  {
+    "id": "7900000000000000201",
+    "submittedVideoUrl": null,
+    "webVideoUrl": null,
+    "searchQuery": "FREAKED OUT - Fat Papi & prodshushy",
+    "text": "example caption #freakedout",
+    "createTimeISO": "2026-09-06T09:30:00.000Z",
+    "hashtags": [
+      {
+        "name": "freakedout"
+      }
+    ],
+    "musicMeta": {
+      "musicName": "FREAKED OUT - Fat Papi & prodshushy"
+    },
+    "videoMeta": {
+      "duration": 19,
+      "downloadAddr": null
+    },
+    "diggCount": 51000,
+    "playCount": 780000,
+    "commentCount": 900,
+    "shareCount": 1200
+  },
+  {
+    "id": "7656890735513505046",
+    "submittedVideoUrl": null,
+    "webVideoUrl": null,
+    "searchQuery": "FREAKED OUT - Fat Papi & prodshushy",
+    "text": "duplicate of the canonical video, also surfaced by the sound-supplement search",
+    "createTimeISO": "2026-09-01T14:00:00.000Z",
+    "hashtags": [
+      {
+        "name": "freakedout"
+      },
+      {
+        "name": "bobgirl"
+      }
+    ],
+    "musicMeta": {
+      "musicName": "FREAKED OUT - Fat Papi & prodshushy"
+    },
+    "videoMeta": {
+      "duration": 21,
+      "downloadAddr": null
+    },
+    "diggCount": 245000,
+    "playCount": 3100000,
+    "commentCount": 4200,
+    "shareCount": 9800
+  },
+  {
+    "id": "7900000000000000202",
+    "submittedVideoUrl": null,
+    "webVideoUrl": null,
+    "searchQuery": "nowhere, nobody - Ariana Grande",
+    "text": "an old clip using this sound, years before it trended",
+    "createTimeISO": "2023-01-10T10:00:00.000Z",
+    "hashtags": [
+      {
+        "name": "haircareroutine"
+      }
+    ],
+    "musicMeta": {
+      "musicName": "nowhere, nobody - Ariana Grande"
+    },
+    "videoMeta": {
+      "duration": 40,
+      "downloadAddr": null
+    },
+    "diggCount": 300,
+    "playCount": 5100,
+    "commentCount": 12,
+    "shareCount": 4
+  }
+]

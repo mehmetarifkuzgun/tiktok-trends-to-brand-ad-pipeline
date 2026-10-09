@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "name": "Kahve Maya",
+  "fictional": true,
+  "disclaimer": "Kahve Maya is a fictional specialty cafe invented for this demo. It is not a real business, and nothing in this profile describes a real product, price or claim.",
+  "positioning": "A calm, slightly upscale specialty cafe in Istanbul built around the ritual of time: a slow morning pour-over, the afternoon pause, the evening cup.",
+  "audience": {
+    "summary": "Urban 22-40 year olds who like craft and calm and are tired of rushing: remote workers, students, and people who treat a good coffee as a small daily ritual.",
+    "interests": [
+      "specialty coffee",
+      "slow mornings",
+      "quiet places to work or read",
+      "design and craft",
+      "city life in Istanbul"
+    ]
+  },
+  "tone_of_voice": {
+    "summary": "Warm, calm, a little wry. A friend who knows good coffee and never pushes it. Understatement over hype.",
+    "voice_rules": [
+      "first person, casual, lowercase captions are fine",
+      "gentle humour at the expense of the speaker (rushing, doomscrolling, cold coffee), never at the viewer's expense",
+      "the brand is mentioned inside the joke or the moment, never as a bare tag or a call to action",
+      "no marketing superlatives (ultimate, epic, best ever, life-changing)"
+    ]
+  },
+  "visual_identity": {
+    "palette": [
+      "warm cream",
+      "roasted brown",
+      "muted terracotta",
+      "soft brass"
+    ],
+    "lighting": "soft natural window light, warm practical lamps; golden-hour or overcast-morning softness, never harsh flash",
+    "settings": [
+      "a small cafe counter with a pour-over bar",
+      "a window table with steam rising from a cup",
+      "a quiet home kitchen or balcony in the morning"
+    ],
+    "style": "unhurried, tactile, close on hands, steam and ceramics; generous negative space; no clutter of logos"
+  },
+  "offer_examples": [
+    "single-origin pour-over",
+    "cardamom cortado",
+    "seasonal pastries",
+    "an afternoon filter-coffee flight",
+    "house-made tahini cookie"
+  ],
+  "do": [
+    "build the moment around a ritual, a pause, or a small luxury",
+    "show craft: water over grounds, steam, a cup being set down",
+    "let the calm payoff land slowly",
+    "keep claims modest and sensory (warm, rich, slow), never medical or factual-superlative"
+  ],
+  "dont": [
+    "no chaos-for-chaos, shock, gore or cruelty",
+    "no alcohol, tobacco, gambling or drugs",
+    "no politics, religion, news events or real public figures",
+    "no health or wellness claims (caffeine cures, detox, weight loss)",
+    "no competitor brands, no price or discount claims, no calls to action",
+    "no real person's likeness; any person in a generated ad is invented"
+  ],
+  "scoring": {
+    "brand_fit": {
+      "summary": "How naturally the video's STRUCTURE could be re-shot around one of the brand beats below. Score the structure, not whether the video mentions coffee: most source videos have nothing to do with cafes and that is expected.",
+      "beats": [
+        {
+          "id": "rush-to-calm",
+          "name": "Rush-to-calm",
+          "description": "A hurried, messy or overwhelming state resolved into stillness through one deliberate action (the pause, the pour, sitting down)."
+        },
+        {
+          "id": "slow-ritual",
+          "name": "The slow ritual",
+          "description": "A craft process given room to breathe and shown with patience (a bloom, a pour, steam), where the slowness is the point."
+        },
+        {
+          "id": "small-luxury",
+          "name": "The small luxury",
+          "description": "A modest, concrete pleasure (the first sip, a warm cup, a quiet table) staged so it feels disproportionately satisfying."
+        }
+      ],
+      "fits": [
+        "calm ritual, craft, warmth, unhurried pacing",
+        "gentle self-aware humour about rushing, scrolling or cold coffee",
+        "before/after reveals where the 'after' is calm",
+        "cosy, sensory, close-up detail"
+      ],
+      "does_not_fit": [
+        "chaos or shock for its own sake, aggression, mockery of people",
+        "alcohol, nightlife or party formats",
+        "politics, news events, celebrity or tragedy commentary",
+        "pure dance or audio-sync challenges with no narrative arc"
+      ]
+    },
+    "licensing_safety": {
+      "guidance": "5 = nothing to license or clear. Score low when the format depends on a real identifiable person, a celebrity, a news event, copyrighted footage, another brand's own ad content, or a trending song whose reuse in a paid ad would need clearance. Alcohol, tobacco and similar restricted categories also score low."
+    }
+  },
+  "ad_script": {
+    "mention_style": "The brand name is spoken naturally inside the line (for example 'at Kahve Maya, ...'); never a bare tag or call to action.",
+    "persona_hints": "An invented, ordinary-looking person (a regular, a barista, a remote worker). Never a real or public individual.",
+    "setting_hints": [
+      "a window table in a quiet cafe",
+      "behind a small pour-over bar",
+      "a sunny kitchen counter"
+    ],
+    "allowed_props": [
+      "a plain, unmarked ceramic cup",
+      "a pour-over dripper",
+      "a kettle"
+    ],
+    "banned_words": [
+      "alcohol",
+      "beer",
+      "wine",
+      "cocktail",
+      "vodka",
+      "whiskey",
+      "cigarette",
+      "discount",
+      "free coffee",
+      "cures",
+      "detox"
+    ],
+    "language": "English",
+    "pip_card_caption": "Kahve Maya - placeholder"
+  }
+}

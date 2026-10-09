@@ -1,0 +1,35 @@
+{
+  "video_id": "7687395619169717534",
+  "content_summary": "A woman looks down at her phone with on-screen text displaying an ominous text message from 'A' mocking her for checking her bank balance before checkout, prompting her to look around anxiously.",
+  "narrative_skeleton": "On-screen text reveals an omniscient observer calling out an embarrassing, relatable private habit, followed by the subject reacting in startled, guilty paranoia.",
+  "hook_type": "POV",
+  "hook_timing_sec": 0.5,
+  "pacing": "fast",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "comedic paranoia",
+  "scores": {
+    "narrative_transferability": {
+      "value": 4,
+      "reasoning": "The omniscient callout format easily transfers to exposing other relatable everyday habits like procrastinating, rushing through tasks, or sneaking an extra coffee."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "The sharp, punchy on-screen text instantly captures attention by calling out a universally relatable secret behavior."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Extremely simple to film with one actor, a smartphone, basic indoor setting, and text overlay in under five seconds."
+    },
+    "brand_fit": {
+      "value": 3,
+      "reasoning": "Could support gentle self-aware humor about rushing or skipping a daily pause, though the confrontational stalker meme trope needs softening to fit Kahve Maya's calm aesthetic."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "The '- A' trope borrows from the TV show Pretty Little Liars, but as a generic meme format without proprietary audio, commercial adaptation risks are minimal if original sound is used."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

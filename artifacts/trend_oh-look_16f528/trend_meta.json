@@ -1,0 +1,21 @@
+{
+  "trend_id": "trend_oh-look_16f528",
+  "trend_name": "Oh look",
+  "merged_from_sources": [
+    "ramdam"
+  ],
+  "reasoning": "Naturally maps to the rush-to-calm beat by contrasting an overwhelming or chaotic state with deliberate, instantaneous stillness.",
+  "sound_name": "sonido original - user077983456",
+  "example_video_urls": [
+    "https://www.tiktok.com/@sophia.sadolin/video/7687602399929765142",
+    "https://www.tiktok.com/@rowan.chapman1/video/7687326560625397005"
+  ],
+  "popularity_rank": 2,
+  "growth_signal": "unknown",
+  "source": "llm_prefilter_accepted",
+  "collected_at": "2026-10-09T11:18:36.839468+00:00",
+  "used_fallback": false,
+  "videos_fetched": 5,
+  "videos_failed": 0,
+  "fetched_at": "2026-10-09T11:20:09.368099+00:00"
+}

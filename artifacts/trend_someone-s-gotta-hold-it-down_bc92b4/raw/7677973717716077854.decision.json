@@ -1,0 +1,8 @@
+{
+  "video_id": "7677973717716077854",
+  "weighted_score": 4.25,
+  "threshold": 3.5,
+  "status": "accepted",
+  "reasoning_summary": "Weighted score 4.25 vs. threshold 3.5 -> accepted. Weakest criterion: hook_strength (3/5 -- The humorous premise on-screen stops scrolling, though the visual execution is static.)",
+  "scored_for_brand": "Kahve Maya"
+}

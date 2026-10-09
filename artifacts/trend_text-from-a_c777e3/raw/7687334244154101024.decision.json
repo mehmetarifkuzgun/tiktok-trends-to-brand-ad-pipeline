@@ -1,0 +1,8 @@
+{
+  "video_id": "7687334244154101024",
+  "weighted_score": 4.45,
+  "threshold": 3.5,
+  "status": "accepted",
+  "reasoning_summary": "Weighted score 4.45 vs. threshold 3.5 -> accepted. Weakest criterion: hook_strength (4/5 -- The instant punchline text coupled with the tense audio cue creates an immediate stop-scroll effect driven by curiosity and relatable call-out humor.)",
+  "scored_for_brand": "Kahve Maya"
+}

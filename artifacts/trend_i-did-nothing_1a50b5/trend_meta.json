@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_i-did-nothing_1a50b5",
+  "trend_name": "I Did Nothing...",
+  "merged_from_sources": [
+    "medianug"
+  ],
+  "reasoning": "A gentle deadpan setup celebrating having nothing urgent to contribute, easily reframed around savoring a quiet pause.",
+  "sound_name": "original sound - RIZADOINK",
+  "example_video_urls": [
+    "https://www.tiktok.com/@berlyn.yvonne/video/7686592609673858317"
+  ],
+  "popularity_rank": 5,
+  "growth_signal": "unknown",
+  "source": "llm_prefilter_accepted",
+  "collected_at": "2026-10-09T11:18:36.839468+00:00",
+  "used_fallback": false,
+  "videos_fetched": 1,
+  "videos_failed": 0,
+  "fetched_at": "2026-10-09T11:20:35.534594+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "_comment": "Provenance for config/ugc_pip_insert.jpg -- the brand/product card composited into every UGC-style ad as a picture-in-picture overlay. Copied per trend into artifacts/{trend_id}/pip_insert.jpg by agents/generate/assembler.py's ensure_pip_asset().",
+  "source": {
+    "kind": "Neutral placeholder generated locally with Pillow (scripts/make_placeholder_pip_card.py)",
+    "content": "Cream card, terracotta frame, simple drawn cup glyph and the text from brand_profile.json ad_script.pip_card_caption",
+    "third_party_assets": "none"
+  },
+  "why_not_rendered_by_veo": "Kept out of every Veo job and composited in post instead, so the brand card is exact and never an invented approximation (see GENERATE.md).",
+  "replace_with": "Your own brand/product card (JPEG), same file name, roughly square; the assembler scales it to a fixed width."
+}

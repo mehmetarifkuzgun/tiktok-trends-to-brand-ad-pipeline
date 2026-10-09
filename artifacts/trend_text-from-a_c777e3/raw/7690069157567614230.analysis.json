@@ -1,0 +1,35 @@
+{
+  "video_id": "7690069157567614230",
+  "content_summary": "A woman sits in a car looking at the camera while on-screen text quotes an ominous text from 'A' exposing her for secretly dimming her phone brightness to check her bank balance before checkout.",
+  "narrative_skeleton": "An on-screen quote from an omniscient observer exposes a relatable, slightly embarrassing habit -> subject reacts with a deadpan, self-conscious look to camera.",
+  "hook_type": "POV",
+  "hook_timing_sec": 0.0,
+  "pacing": "slow",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "deadpan self-awareness",
+  "scores": {
+    "narrative_transferability": {
+      "value": 5,
+      "reasoning": "The format is entirely driven by text on screen calling out a relatable habit paired with a quiet deadpan reaction, making it adaptable to virtually any daily micro-habit."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "The hyper-specific, relatable text callout instantly hooks the viewer through self-recognition within the opening second."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Requires only a single creator looking into a phone camera in natural lighting with on-screen text overlay."
+    },
+    "brand_fit": {
+      "value": 4,
+      "reasoning": "Directly supports gentle self-aware humor about rushing, doomscrolling, or needing a coffee pause before returning to calm."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "The '- A' motif references Pretty Little Liars, but the structure can be used with any sender, notification, or inner-monologue format with royalty-free audio."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

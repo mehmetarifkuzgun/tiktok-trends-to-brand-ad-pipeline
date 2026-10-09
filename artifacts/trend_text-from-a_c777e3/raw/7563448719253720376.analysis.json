@@ -1,0 +1,35 @@
+{
+  "video_id": "7563448719253720376",
+  "content_summary": "Pop artist Demi Lovato performs live on stage in front of a cheering crowd, with Portuguese lyric translations overlaid on screen as she sings.",
+  "narrative_skeleton": "Concert performance clip paired with synchronized lyrical subtitle overlays conveying emotional empowerment.",
+  "hook_type": "other",
+  "hook_timing_sec": 1.0,
+  "pacing": "medium",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": true,
+  "emotional_tone": "passionate",
+  "scores": {
+    "narrative_transferability": {
+      "value": 1,
+      "reasoning": "The clip is standard fan-edit concert footage centered around a specific celebrity performance with no reproducible storytelling mechanics or narrative framework."
+    },
+    "hook_strength": {
+      "value": 2,
+      "reasoning": "Relies entirely on celebrity recognition and fan engagement with the music rather than a narrative or conceptual scroll-stopping hook."
+    },
+    "production_feasibility": {
+      "value": 1,
+      "reasoning": "Replicating stadium concert production with thousands of audience members and high-end stage lighting is impractical and cost-prohibitive for a local brand."
+    },
+    "brand_fit": {
+      "value": 1,
+      "reasoning": "A high-energy pop concert atmosphere directly contradicts Kahve Maya's core identity of quiet, slow ritual, and unhurried warmth."
+    },
+    "licensing_safety": {
+      "value": 1,
+      "reasoning": "Features copyrighted live concert footage and commercial music from a major global recording artist, posing severe copyright and personality rights risks."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

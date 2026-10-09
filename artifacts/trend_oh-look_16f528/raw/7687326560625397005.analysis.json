@@ -1,0 +1,35 @@
+{
+  "video_id": "7687326560625397005",
+  "content_summary": "A man points at the floor shouting 'look a spider!' and lifts a woman up; she then points down saying 'look a ring' and lifts him up in return.",
+  "narrative_skeleton": "Setup with an alarming cue leading to a sudden physical reaction, followed by an immediate symmetrical role reversal with an exciting cue.",
+  "hook_type": "comedy_skit",
+  "hook_timing_sec": 0.8,
+  "pacing": "fast",
+  "has_spoken_dialogue": true,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "playful humor",
+  "scores": {
+    "narrative_transferability": {
+      "value": 4,
+      "reasoning": "The two-part symmetrical reaction gag works with any paired cues and any two actors."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "Immediate physical action and reaction within the first second stop scrolling effectively."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Requires only two people in an open space with simple camera work and zero effects."
+    },
+    "brand_fit": {
+      "value": 2,
+      "reasoning": "Slapstick physical trend humor clashes with Kahve Maya's unhurried, calm ritual identity."
+    },
+    "licensing_safety": {
+      "value": 3,
+      "reasoning": "Concept relies heavily on a viral audio track that would require licensing for commercial ad use."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

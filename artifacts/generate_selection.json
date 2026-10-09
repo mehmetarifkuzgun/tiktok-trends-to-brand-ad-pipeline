@@ -1,0 +1,17 @@
+{
+  "selected_at": "2026-10-09T11:26:57+00:00",
+  "rule": "top 1 by weighted_score among videos with decision status 'accepted'; at most one video per trend_id (artifacts are laid out per trend)",
+  "accepted_candidates_considered": 10,
+  "selected": [
+    {
+      "rank": 1,
+      "trend_id": "trend_i-did-nothing_1a50b5",
+      "video_id": "7686592609673858317",
+      "weighted_score": 4.45,
+      "decision_path": "artifacts/trend_i-did-nothing_1a50b5/raw/7686592609673858317.decision.json",
+      "analysis_path": "artifacts/trend_i-did-nothing_1a50b5/raw/7686592609673858317.analysis.json",
+      "video_path": "artifacts/trend_i-did-nothing_1a50b5/raw/7686592609673858317.mp4"
+    }
+  ],
+  "skipped_same_trend": []
+}

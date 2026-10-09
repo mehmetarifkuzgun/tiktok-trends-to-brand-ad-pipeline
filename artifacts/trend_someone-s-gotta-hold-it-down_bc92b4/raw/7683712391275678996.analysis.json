@@ -1,0 +1,35 @@
+{
+  "video_id": "7683712391275678996",
+  "content_summary": "A person in a red hoodie sprints chaotically through empty city streets at night, lip-syncing frantically to high-tempo music with synchronized lyric subtitles.",
+  "narrative_skeleton": "A character frantically runs through a night setting in manic motion, synchronized to high-energy audio and on-screen lyric text.",
+  "hook_type": "other",
+  "hook_timing_sec": 0.5,
+  "pacing": "fast",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "chaotic and manic",
+  "scores": {
+    "narrative_transferability": {
+      "value": 3,
+      "reasoning": "Manic running is easily adaptable to different comedic contexts, though it lacks an internal narrative resolution."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "High-velocity motion and immediate frenetic shouting stop scrolling instantly."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Requires only a single runner and a smartphone camera at night with no set dressing."
+    },
+    "brand_fit": {
+      "value": 2,
+      "reasoning": "The frantic chaos clashes with brand serenity, though it could serve as an extreme 'rush' contrast before a calm ritual."
+    },
+    "licensing_safety": {
+      "value": 2,
+      "reasoning": "Relies heavily on lip-syncing copyrighted commercial audio and text lyrics requiring clearance."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

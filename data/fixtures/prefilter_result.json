@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "trend_id_hint": "reasons-to-get-a-bob",
+      "canonical_trend_name": "Reasons to Get a Bob",
+      "merged_from_sources": [
+        "socialpilot",
+        "ramdam"
+      ],
+      "status": "accepted",
+      "reasoning": "A deadpan numbered-list-of-reasons format with a fixed punchline word -- no persona or subject lock-in, trivially re-skinned around any product or premise.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@example_creator/video/7656890735513505046"
+      ],
+      "sound_name": "FREAKED OUT - Fat Papi & prodshushy"
+    },
+    {
+      "trend_id_hint": "deep-breaths-honey",
+      "canonical_trend_name": "Deep Breaths, Honey",
+      "merged_from_sources": [
+        "ramdam"
+      ],
+      "status": "accepted",
+      "reasoning": "A lyric-synced photo carousel structure is a transferable narrative container -- any set of images/beats can be swapped in.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@example_creator/video/7669528530522361102"
+      ],
+      "sound_name": "nowhere, nobody - Ariana Grande"
+    },
+    {
+      "trend_id_hint": "prized-possession",
+      "canonical_trend_name": "Prized Possession",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A reveal-your-favorite-thing format maps cleanly onto a small-victory/pride beat and works for any object or feature.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@example_creator/video/7678196941913607455"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "its-a-clock",
+      "canonical_trend_name": "It's a Clock",
+      "merged_from_sources": [
+        "napoleoncat"
+      ],
+      "status": "accepted",
+      "reasoning": "A delayed-realization structure (a memory on screen, the sound landing at the exact moment it clicks) is a generic narrative device usable with any subject.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@example_creator/video/7671289748664651028"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "alibi-dance-challenge",
+      "canonical_trend_name": "Alibi Dance Challenge",
+      "merged_from_sources": [
+        "socialpilot"
+      ],
+      "status": "rejected",
+      "reasoning": "A pure choreographed dance-to-a-song challenge with no narrative arc, hook, or resolution to adapt -- the entire format is the dance execution itself.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@example_creator/video/7447996726566259990"
+      ],
+      "sound_name": null
+    }
+  ],
+  "judged_for_brand": "original brand (a mobile puzzle game), NOT Kahve Maya -- stale for the current brand profile"
+}

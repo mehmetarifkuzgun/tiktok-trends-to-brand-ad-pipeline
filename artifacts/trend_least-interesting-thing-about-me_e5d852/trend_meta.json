@@ -1,0 +1,18 @@
+{
+  "trend_id": "trend_least-interesting-thing-about-me_e5d852",
+  "trend_name": "Least Interesting Thing About Me",
+  "merged_from_sources": [
+    "medianug"
+  ],
+  "reasoning": "A modular photo carousel structure showing hidden layers of depth under an unassuming exterior, adaptable to craft and subtle quality.",
+  "sound_name": null,
+  "example_video_urls": [],
+  "popularity_rank": 6,
+  "growth_signal": "unknown",
+  "source": "llm_prefilter_accepted",
+  "collected_at": "2026-10-09T11:18:36.839468+00:00",
+  "used_fallback": false,
+  "videos_fetched": 0,
+  "videos_failed": 0,
+  "fetched_at": "2026-10-09T11:20:35.536592+00:00"
+}

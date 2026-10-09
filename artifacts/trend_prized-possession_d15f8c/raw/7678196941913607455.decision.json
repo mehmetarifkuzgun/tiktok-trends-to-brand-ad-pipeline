@@ -1,0 +1,8 @@
+{
+  "video_id": "7678196941913607455",
+  "weighted_score": 4.05,
+  "threshold": 3.5,
+  "status": "accepted",
+  "reasoning_summary": "Weighted score 4.05 vs. threshold 3.5 -> accepted. Weakest criterion: licensing_safety (3/5 -- The specific comedic audio is a viral meme sound from pop culture that cannot be directly reused in commercial advertising without licensing or re-recording original voiceover.)",
+  "scored_for_brand": "Kahve Maya"
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "7621339634533977347",
+  "content_summary": "A static graphic displaying a speaker icon and clapping hands plays a continuous sound effect of rapid applause.",
+  "narrative_skeleton": "Static graphic presentation of an isolated audio meme template with no visual progression or narrative arc.",
+  "hook_type": "other",
+  "hook_timing_sec": 0.5,
+  "pacing": "fast",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "frenetic",
+  "scores": {
+    "narrative_transferability": {
+      "value": 1,
+      "reasoning": "Lacks any narrative structure; it is purely an isolated audio effect template."
+    },
+    "hook_strength": {
+      "value": 1,
+      "reasoning": "A static icon paired with clapping sound effects provides minimal visual scroll-stopping engagement."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Requires only basic static graphics and a stock audio clip."
+    },
+    "brand_fit": {
+      "value": 1,
+      "reasoning": "Chaotic, repetitive applause clashes directly with the calm, artisanal aesthetic of the brand."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "Sound effect appears generic, though app branding graphics are present."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

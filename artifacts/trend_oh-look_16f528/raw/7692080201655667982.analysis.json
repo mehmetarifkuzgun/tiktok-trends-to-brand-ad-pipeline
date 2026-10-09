@@ -1,0 +1,35 @@
+{
+  "video_id": "7692080201655667982",
+  "content_summary": "A creator listens in a split-screen to a young boy explaining how to read the Bible, followed by an extended direct-to-camera reflection into a podcast microphone praising the boy's wisdom and encouraging religious parenting.",
+  "narrative_skeleton": "A split-screen reaction to an insightful third-party clip transitions into a lengthy, direct-to-microphone monologue that reinforces and preaches on the core message.",
+  "hook_type": "other",
+  "hook_timing_sec": 1.5,
+  "pacing": "slow",
+  "has_spoken_dialogue": true,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "earnest and spiritual",
+  "scores": {
+    "narrative_transferability": {
+      "value": 2,
+      "reasoning": "While reacting to an informative clip can be adapted, the nearly five-minute pastoral monologue structure is rigid, undynamic, and poor for branded short-form content."
+    },
+    "hook_strength": {
+      "value": 3,
+      "reasoning": "A precocious child offering advice creates an initial stop-scroll curiosity gap, but it dissipates quickly into slow exposition."
+    },
+    "production_feasibility": {
+      "value": 4,
+      "reasoning": "Requires only a split-screen screen capture and a single-camera studio microphone setup, which is cheap and easy to shoot."
+    },
+    "brand_fit": {
+      "value": 1,
+      "reasoning": "A religious commentary sermon does not align with the brand beats of craft coffee, mindful pauses, or tactile sensory ritual."
+    },
+    "licensing_safety": {
+      "value": 2,
+      "reasoning": "Relies heavily on re-sharing viral footage featuring an identifiable minor, which presents clear copyright and consent issues for commercial use."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

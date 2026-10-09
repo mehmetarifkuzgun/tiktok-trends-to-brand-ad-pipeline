@@ -1,0 +1,8 @@
+{
+  "video_id": "7685963771721862421",
+  "weighted_score": 1.7,
+  "threshold": 3.5,
+  "status": "rejected",
+  "reasoning_summary": "Weighted score 1.70 vs. threshold 3.5 -> rejected. Weakest criterion: production_feasibility (1/5 -- Recreating a stadium concert stage, lighting rig, large audience, and live vocal performance is extremely expensive and complex.)",
+  "scored_for_brand": "Kahve Maya"
+}

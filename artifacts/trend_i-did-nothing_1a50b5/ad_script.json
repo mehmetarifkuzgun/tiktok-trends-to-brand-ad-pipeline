@@ -1,0 +1,33 @@
+{
+  "video_id": "7686592609673858317",
+  "trend_id": "trend_i-did-nothing_1a50b5",
+  "persona": {
+    "description": "A man in his early 30s with messy dark brown hair, slight stubble, and an olive green wool knit sweater, seated at a warm terracotta cafe table with soft morning window light.",
+    "identity_consistency_method": "Shot 1 is text-to-video (invented persona); shot 2 starts on the exact final frame of shot 1."
+  },
+  "narrative_mapping": "Source: Relatable situational prompt cuts to deadpan cheerful confession of having done nothing. Mapped to: Speaker looks deadpan at the camera admitting he had an enormous to-do list, then reveals with quiet pride that he instead spent the entire morning sitting at Kahve Maya watching steam rise from his cup.",
+  "shots": [
+    {
+      "order": 1,
+      "duration_sec": 4,
+      "visual_prompt": "Photorealistic vertical 9:16 selfie-style video, front-facing camera, slightly low handheld angle. A man in his early 30s with messy dark brown hair, slight stubble, and an olive green wool knit sweater sits at a warm terracotta cafe table with soft morning window light behind him. He looks directly into the camera lens with a calm, deadpan, mildly self-satisfied expression and speaks directly to it, naturally lip-synced: \"I was supposed to conquer my entire life today, but instead—\" He pauses mid-thought with a steady, unbothered gaze. Soft natural window lighting, authentic skin texture, realistic handheld camera micro-movements, amateur handheld selfie-video quality, not cinematic. Absolutely no on-screen text of any kind anywhere in the shot: no captions, subtitles, burned-in words, letters, numbers, timestamps, watermarks, logos, or UI elements -- and no text, lettering, or graphic prints on clothing, posters, signs, packaging, or any other object in the scene either.",
+      "onscreen_text": "huge day for productivity",
+      "dialogue": "I was supposed to conquer my entire life today, but instead—"
+    },
+    {
+      "order": 2,
+      "duration_sec": 8,
+      "visual_prompt": "Photorealistic vertical 9:16 selfie-style video, continuing the same handheld selfie shot seamlessly. A man in his early 30s with messy dark brown hair, slight stubble, and an olive green wool knit sweater remains seated at a warm terracotta cafe table with soft morning window light behind him. A plain unmarked ceramic cup rests nearby. He breaks into a faint, serene half-smirk, glances briefly toward the upper-left corner of the frame, then looks back to the camera and speaks directly to it, naturally lip-synced: \"...I sat at Kahve Maya for forty-five minutes just waiting for the steam to clear.\" He finishes with a gentle, unapologetic shrug and a calm nod. Soft natural window lighting, authentic skin texture, realistic handheld camera micro-movements, amateur handheld selfie-video quality, not cinematic. Absolutely no on-screen text of any kind anywhere in the shot: no captions, subtitles, burned-in words, letters, numbers, timestamps, watermarks, logos, or UI elements -- and no text, lettering, or graphic prints on clothing, posters, signs, packaging, or any other object in the scene either.",
+      "onscreen_text": "priorities are completely in order",
+      "dialogue": "...I sat at Kahve Maya for forty-five minutes just waiting for the steam to clear."
+    }
+  ],
+  "meta": {
+    "style": "ugc",
+    "script_model": "gemini-3.8-flash",
+    "brand": "Kahve Maya",
+    "prompt_file": "prompts/ugc_ad_script_prompt.md",
+    "source_analysis_path": "artifacts/trend_i-did-nothing_1a50b5/raw/7686592609673858317.analysis.json",
+    "generated_at": "2026-10-09T11:27:08+00:00"
+  }
+}

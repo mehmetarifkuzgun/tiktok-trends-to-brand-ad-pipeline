@@ -1,0 +1,102 @@
+[
+  {
+    "trend_id": "trend_text-from-a_c777e3",
+    "trend_name": "Text From \"A\"",
+    "merged_from_sources": [
+      "ramdam",
+      "medianug"
+    ],
+    "reasoning": "A versatile deadpan reveal format that enables gentle self-aware humor exposing relatable daily habits like rushing or excessive screen time.",
+    "sound_name": "pll purposes only ty - demi devito",
+    "example_video_urls": [
+      "https://www.tiktok.com/@nia.lavine/video/7687395619169717534",
+      "https://www.tiktok.com/@xplamedi/video/7687334244154101024",
+      "https://www.tiktok.com/@desipaddy/video/7689485377765149974"
+    ],
+    "popularity_rank": 1,
+    "growth_signal": "unknown",
+    "source": "llm_prefilter_accepted",
+    "collected_at": "2026-10-09T11:18:36.839468+00:00"
+  },
+  {
+    "trend_id": "trend_oh-look_16f528",
+    "trend_name": "Oh look",
+    "merged_from_sources": [
+      "ramdam"
+    ],
+    "reasoning": "Naturally maps to the rush-to-calm beat by contrasting an overwhelming or chaotic state with deliberate, instantaneous stillness.",
+    "sound_name": "sonido original - user077983456",
+    "example_video_urls": [
+      "https://www.tiktok.com/@sophia.sadolin/video/7687602399929765142",
+      "https://www.tiktok.com/@rowan.chapman1/video/7687326560625397005"
+    ],
+    "popularity_rank": 2,
+    "growth_signal": "unknown",
+    "source": "llm_prefilter_accepted",
+    "collected_at": "2026-10-09T11:18:36.839468+00:00"
+  },
+  {
+    "trend_id": "trend_someone-s-gotta-hold-it-down_bc92b4",
+    "trend_name": "Someone's Gotta Hold It Down",
+    "merged_from_sources": [
+      "medianug",
+      "napoleoncat"
+    ],
+    "reasoning": "Celebrates the quiet dignity of unglamorous solitary craft while everyone else rushes off, fitting the brand's slow-ritual atmosphere perfectly.",
+    "sound_name": "Ain’t In LA - ADÉLA",
+    "example_video_urls": [
+      "https://www.tiktok.com/@dewitt.lending.te/video/7677973717716077854",
+      "https://www.tiktok.com/@maeyoww_/video/7670824295446088981"
+    ],
+    "popularity_rank": 3,
+    "growth_signal": "unknown",
+    "source": "llm_prefilter_accepted",
+    "collected_at": "2026-10-09T11:18:36.839468+00:00"
+  },
+  {
+    "trend_id": "trend_prized-possession_d15f8c",
+    "trend_name": "Prized Possession",
+    "merged_from_sources": [
+      "medianug"
+    ],
+    "reasoning": "A flexible showcase format celebrating an item treated with extreme affection, perfectly applicable to staging coffee craft as a small luxury.",
+    "sound_name": "original sound - Angelo David",
+    "example_video_urls": [
+      "https://www.tiktok.com/@meg.k8/video/7678196941913607455"
+    ],
+    "popularity_rank": 4,
+    "growth_signal": "unknown",
+    "source": "llm_prefilter_accepted",
+    "collected_at": "2026-10-09T11:18:36.839468+00:00"
+  },
+  {
+    "trend_id": "trend_i-did-nothing_1a50b5",
+    "trend_name": "I Did Nothing...",
+    "merged_from_sources": [
+      "medianug"
+    ],
+    "reasoning": "A gentle deadpan setup celebrating having nothing urgent to contribute, easily reframed around savoring a quiet pause.",
+    "sound_name": "original sound - RIZADOINK",
+    "example_video_urls": [
+      "https://www.tiktok.com/@berlyn.yvonne/video/7686592609673858317"
+    ],
+    "popularity_rank": 5,
+    "growth_signal": "unknown",
+    "source": "llm_prefilter_accepted",
+    "collected_at": "2026-10-09T11:18:36.839468+00:00"
+  },
+  {
+    "trend_id": "trend_least-interesting-thing-about-me_e5d852",
+    "trend_name": "Least Interesting Thing About Me",
+    "merged_from_sources": [
+      "medianug"
+    ],
+    "reasoning": "A modular photo carousel structure showing hidden layers of depth under an unassuming exterior, adaptable to craft and subtle quality.",
+    "sound_name": null,
+    "example_video_urls": [],
+    "popularity_rank": 6,
+    "growth_signal": "unknown",
+    "source": "llm_prefilter_accepted",
+    "collected_at": "2026-10-09T11:18:36.839468+00:00"
+  }
+]

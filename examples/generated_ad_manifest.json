@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-10-09T11:29:27+00:00",
+  "style": "ugc",
+  "source": {
+    "trend_id": "trend_i-did-nothing_1a50b5",
+    "trend_name": "I Did Nothing...",
+    "video_id": "7686592609673858317",
+    "video_path": "artifacts/trend_i-did-nothing_1a50b5/raw/7686592609673858317.mp4",
+    "weighted_score": 4.45,
+    "selection_rank": 1,
+    "selection_file": "artifacts/generate_selection.json",
+    "analysis_path": "artifacts/trend_i-did-nothing_1a50b5/raw/7686592609673858317.analysis.json",
+    "decision_path": "artifacts/trend_i-did-nothing_1a50b5/raw/7686592609673858317.decision.json"
+  },
+  "persona": {
+    "description": "A man in his early 30s with messy dark brown hair, slight stubble, and an olive green wool knit sweater, seated at a warm terracotta cafe table with soft morning window light.",
+    "identity_consistency_method": "Shot 1 is text-to-video (invented persona); shot 2 starts on the exact final frame of shot 1."
+  },
+  "narrative_mapping": "Source: Relatable situational prompt cuts to deadpan cheerful confession of having done nothing. Mapped to: Speaker looks deadpan at the camera admitting he had an enormous to-do list, then reveals with quiet pride that he instead spent the entire morning sitting at Kahve Maya watching steam rise from his cup.",
+  "ad_script_path": "artifacts/trend_i-did-nothing_1a50b5/ad_script.json",
+  "clips": [
+    {
+      "order": 1,
+      "path": "artifacts/trend_i-did-nothing_1a50b5/generated_clips/shot_1.mp4",
+      "veo_model": "veo-3.1-fast-generate-preview",
+      "prompt": "Photorealistic vertical 9:16 selfie-style video, front-facing camera, slightly low handheld angle. A man in his early 30s with messy dark brown hair, slight stubble, and an olive green wool knit sweater sits at a warm terracotta cafe table with soft morning window light behind him. He looks directly into the camera lens with a calm, deadpan, mildly self-satisfied expression and speaks directly to it, naturally lip-synced: \"I was supposed to conquer my entire life today, but instead—\" He pauses mid-thought with a steady, unbothered gaze. Soft natural window lighting, authentic skin texture, realistic handheld camera micro-movements, amateur handheld selfie-video quality, not cinematic. Absolutely no on-screen text of any kind anywhere in the shot: no captions, subtitles, burned-in words, letters, numbers, timestamps, watermarks, logos, or UI elements -- and no text, lettering, or graphic prints on clothing, posters, signs, packaging, or any other object in the scene either.",
+      "negative_prompt": "on-screen text, captions, subtitles, burned-in words, letters, numbers, timestamps, watermark, logo, UI elements, overlay graphics, text on clothing, graphic prints, posters or signs with visible text",
+      "dialogue": "I was supposed to conquer my entire life today, but instead—",
+      "onscreen_text": "huge day for productivity",
+      "requested_duration_sec": 4,
+      "seed": null,
+      "actual": {
+        "duration_sec": 4.0,
+        "width": 720,
+        "height": 1280,
+        "has_audio": true
+      },
+      "veo_operation_name": "models/veo-3.1-fast-generate-preview/operations/4uwebtxs1ae5",
+      "veo_latency_sec": 64.2,
+      "est_cost_usd": 0.4,
+      "generated_at": "2026-10-09T11:28:13+00:00"
+    },
+    {
+      "order": 2,
+      "path": "artifacts/trend_i-did-nothing_1a50b5/generated_clips/shot_2.mp4",
+      "veo_model": "veo-3.1-fast-generate-preview",
+      "prompt": "Photorealistic vertical 9:16 selfie-style video, continuing the same handheld selfie shot seamlessly. A man in his early 30s with messy dark brown hair, slight stubble, and an olive green wool knit sweater remains seated at a warm terracotta cafe table with soft morning window light behind him. A plain unmarked ceramic cup rests nearby. He breaks into a faint, serene half-smirk, glances briefly toward the upper-left corner of the frame, then looks back to the camera and speaks directly to it, naturally lip-synced: \"...I sat at Kahve Maya for forty-five minutes just waiting for the steam to clear.\" He finishes with a gentle, unapologetic shrug and a calm nod. Soft natural window lighting, authentic skin texture, realistic handheld camera micro-movements, amateur handheld selfie-video quality, not cinematic. Absolutely no on-screen text of any kind anywhere in the shot: no captions, subtitles, burned-in words, letters, numbers, timestamps, watermarks, logos, or UI elements -- and no text, lettering, or graphic prints on clothing, posters, signs, packaging, or any other object in the scene either.",
+      "negative_prompt": "on-screen text, captions, subtitles, burned-in words, letters, numbers, timestamps, watermark, logo, UI elements, overlay graphics, text on clothing, graphic prints, posters or signs with visible text",
+      "dialogue": "...I sat at Kahve Maya for forty-five minutes just waiting for the steam to clear.",
+      "onscreen_text": "priorities are completely in order",
+      "requested_duration_sec": 8,
+      "seed": {
+        "type": "previous_shot_last_frame",
+        "path": "artifacts/trend_i-did-nothing_1a50b5/generated_clips/shot_2_seed_from_shot_1_last_frame.png",
+        "sha256": "60a4dd987c64263c"
+      },
+      "actual": {
+        "duration_sec": 8.0,
+        "width": 720,
+        "height": 1280,
+        "has_audio": true
+      },
+      "veo_operation_name": "models/veo-3.1-fast-generate-preview/operations/qi2lk4m631du",
+      "veo_latency_sec": 65.3,
+      "est_cost_usd": 0.8,
+      "generated_at": "2026-10-09T11:29:20+00:00"
+    }
+  ],
+  "overlays": [
+    {
+      "shot_order": 1,
+      "text": "huge day for productivity",
+      "start": 0.0,
+      "end": 4.0
+    },
+    {
+      "shot_order": 2,
+      "text": "priorities are completely in order",
+      "start": 4.0,
+      "end": 12.0
+    }
+  ],
+  "pip_insert": {
+    "asset_path": "artifacts/trend_i-did-nothing_1a50b5/pip_insert.jpg",
+    "asset_source": "Brand/product card used as a picture-in-picture overlay -- never rendered by Veo, composited here in post. The shipped default is a neutral generated placeholder; see config/ugc_pip_insert_provenance.json.",
+    "presentation": "Fixed-position bordered picture-in-picture card, top-left, pure post-production overlay -- not tracked to any in-scene object.",
+    "window_sec_global": [
+      5.5,
+      7.5
+    ]
+  },
+  "final_video": {
+    "path": "artifacts/trend_i-did-nothing_1a50b5/final_video.mp4",
+    "duration_sec": 12.0,
+    "width": 720,
+    "height": 1280,
+    "fps": 24.0,
+    "video_codec": "h264",
+    "has_audio": true,
+    "audio_codec": "aac",
+    "size_bytes": 3894066
+  },
+  "est_total_cost_usd": 1.2,
+  "cost_note": "Estimated from Google's published per-second Veo pricing (720p, audio included); the API returns no cost data. Verify against billing."
+}

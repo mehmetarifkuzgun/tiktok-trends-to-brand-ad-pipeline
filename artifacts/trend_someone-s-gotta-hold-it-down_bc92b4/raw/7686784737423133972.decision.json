@@ -1,0 +1,8 @@
+{
+  "video_id": "7686784737423133972",
+  "weighted_score": 1.55,
+  "threshold": 3.5,
+  "status": "rejected",
+  "reasoning_summary": "Weighted score 1.55 vs. threshold 3.5 -> rejected. Weakest criterion: narrative_transferability (1/5 -- Pure live musical showcase with no reusable commercial narrative arc.)",
+  "scored_for_brand": "Kahve Maya"
+}

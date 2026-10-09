@@ -1,0 +1,64 @@
+[
+  {
+    "run_at": "2026-10-09T11:29:28+00:00",
+    "exit_code": 0,
+    "top_n": 1,
+    "max_trends": 6,
+    "model_tier": "fast",
+    "forced_stages": [],
+    "wall_time_sec": 852.3,
+    "costs": {
+      "apify_usd": 0.0947,
+      "gemini_est_usd": 0.2885,
+      "veo_est_usd": 1.2,
+      "total_usd": 1.5832
+    },
+    "stages": [
+      {
+        "name": "discover",
+        "status": "ran",
+        "seconds": 315.6,
+        "detail": "5 real trends, 18 videos",
+        "costs": {
+          "apify_estimate_usd": 0.121,
+          "apify_actual_usd": 0.0947,
+          "gemini": {
+            "calls": 1,
+            "input_tokens": 35614,
+            "output_tokens": 27184,
+            "est_cost_usd": 0.1287
+          }
+        }
+      },
+      {
+        "name": "process",
+        "status": "ran",
+        "seconds": 377.1,
+        "detail": "18 analyzed: 10 accepted, 8 rejected",
+        "costs": {
+          "gemini": {
+            "calls": 18,
+            "input_tokens": 107175,
+            "output_tokens": 19100,
+            "est_cost_usd": 0.152
+          }
+        }
+      },
+      {
+        "name": "generate",
+        "status": "ran",
+        "seconds": 150.5,
+        "detail": "1 final videos",
+        "costs": {
+          "veo_estimate_usd": 1.2,
+          "gemini": {
+            "calls": 1,
+            "input_tokens": 4614,
+            "output_tokens": 1145,
+            "est_cost_usd": 0.0078
+          }
+        }
+      }
+    ]
+  }
+]

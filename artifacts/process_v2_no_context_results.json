@@ -1,0 +1,185 @@
+{
+  "_note": "Measured on the original run, which scored videos for the original target brand (a mobile puzzle game), not for Kahve Maya. The scoring-stability findings (variance, anchoring effect of the context block) are brand-independent; the absolute scores and accept counts are not.",
+  "date": "2026-09-20",
+  "what": "Process re-run on the 16 real videos with the scoring prompt's context block removed entirely (prompts/video_analysis_prompt.md, 'v2'), default sampling, unchanged weights and 3.5 threshold. Run 1 is the official v2 result (also written as raw/*.{analysis,decision}.v2_no_context.json); runs 2-3 only measure stability. The submitted v1 analysis/decision files were NOT changed.",
+  "status": "NOT PROMOTED - decision pending (see PROCESS.md)",
+  "v1_submitted": {
+    "accepted": 11,
+    "rejected": 5,
+    "scores": {
+      "7669096372053740817": 1.6,
+      "7669528530522361102": 4.8,
+      "7680675536472919328": 1.2,
+      "7680684096590335254": 1.35,
+      "7678405863895305486": 4.65,
+      "7679466550163803406": 3.6,
+      "7680153767831964942": 3.6,
+      "7595969526026489108": 3.55,
+      "7671289748664651028": 3.6,
+      "7658757295534394655": 2.3,
+      "7678196941913607455": 3.45,
+      "7677771393550880014": 4.25,
+      "7682749253235641622": 3.7,
+      "7656890735513505046": 4.1,
+      "7636159095698902303": 4.05,
+      "7684305885983690014": 3.95
+    }
+  },
+  "v2_runs": {
+    "run1": {
+      "accepted": 3,
+      "rejected": 13,
+      "scores": {
+        "7595969526026489108": 3.15,
+        "7636159095698902303": 3.35,
+        "7656890735513505046": 3.45,
+        "7658757295534394655": 2.2,
+        "7669096372053740817": 2.3,
+        "7669528530522361102": 4.55,
+        "7671289748664651028": 3.45,
+        "7677771393550880014": 3.9,
+        "7678196941913607455": 2.9,
+        "7678405863895305486": 3.55,
+        "7679466550163803406": 2.9,
+        "7680153767831964942": 3.45,
+        "7680675536472919328": 2.2,
+        "7680684096590335254": 2.2,
+        "7682749253235641622": 3.2,
+        "7684305885983690014": 3.35
+      },
+      "top3_by_generate_rule": [
+        [
+          "trend_deep-breaths-honey_fd9cdd",
+          4.55
+        ],
+        [
+          "trend_past-me-getting-a-recap-from-future-me_8828f4",
+          3.9
+        ],
+        [
+          "trend_dramatic-transition_1c77dc",
+          3.55
+        ]
+      ]
+    },
+    "run2": {
+      "accepted": 2,
+      "rejected": 14,
+      "scores": {
+        "7595969526026489108": 3.2,
+        "7636159095698902303": 3.1,
+        "7656890735513505046": 3.2,
+        "7658757295534394655": 2.4,
+        "7669096372053740817": 2.3,
+        "7669528530522361102": 4.8,
+        "7671289748664651028": 2.9,
+        "7677771393550880014": 3.7,
+        "7678196941913607455": 3.15,
+        "7678405863895305486": 3.45,
+        "7679466550163803406": 2.9,
+        "7680153767831964942": 3.35,
+        "7680675536472919328": 2.2,
+        "7680684096590335254": 2.2,
+        "7682749253235641622": 3.15,
+        "7684305885983690014": 3.35
+      },
+      "top3_by_generate_rule": [
+        [
+          "trend_deep-breaths-honey_fd9cdd",
+          4.8
+        ],
+        [
+          "trend_past-me-getting-a-recap-from-future-me_8828f4",
+          3.7
+        ]
+      ]
+    },
+    "run3": {
+      "accepted": 2,
+      "rejected": 14,
+      "scores": {
+        "7595969526026489108": 3.45,
+        "7636159095698902303": 3.1,
+        "7656890735513505046": 3.45,
+        "7658757295534394655": 2.5,
+        "7669096372053740817": 2.3,
+        "7669528530522361102": 4.55,
+        "7671289748664651028": 3.45,
+        "7677771393550880014": 3.8,
+        "7678196941913607455": 2.9,
+        "7678405863895305486": 3.45,
+        "7679466550163803406": 3.0,
+        "7680153767831964942": 3.45,
+        "7680675536472919328": 2.2,
+        "7680684096590335254": 2.2,
+        "7682749253235641622": 3.45,
+        "7684305885983690014": 3.35
+      },
+      "top3_by_generate_rule": [
+        [
+          "trend_deep-breaths-honey_fd9cdd",
+          4.55
+        ],
+        [
+          "trend_past-me-getting-a-recap-from-future-me_8828f4",
+          3.8
+        ]
+      ]
+    }
+  },
+  "v2_stability": {
+    "mean_abs_score_change_between_runs": 0.12,
+    "verdict_flips_between_run_pairs": [
+      1,
+      1,
+      0
+    ],
+    "accepted_by_3_run_mean": 2,
+    "videos_within_0.35_of_threshold_by_mean": 9
+  },
+  "v1_to_v2_official": {
+    "mean_abs_score_change": 0.55,
+    "verdict_flips": 8,
+    "mean_score_14_shared_videos": {
+      "v1_submitted": 3.66,
+      "v2_mean_of_3_runs": 3.26,
+      "earlier_no_context_experiment_arm_kept_preamble": 3.47
+    },
+    "accepted_of_14_shared": {
+      "v1_submitted": 11,
+      "v2_mean_of_3_runs": 2,
+      "earlier_no_context_experiment_arm": 8
+    }
+  },
+  "context_field_stability_across_two_independent_pipeline_runs": {
+    "reasoning_identical": "0 of 14",
+    "trend_name_identical": "5 of 14",
+    "sound_name_identical": "14 of 14",
+    "example_video_urls_identical": "14 of 14"
+  },
+  "informational_only_nothing_applied": {
+    "v2_3run_mean_scores_desc": [
+      4.63,
+      3.8,
+      3.48,
+      3.42,
+      3.37,
+      3.35,
+      3.27,
+      3.27,
+      3.27,
+      3.18,
+      2.98,
+      2.93,
+      2.37,
+      2.3,
+      2.2,
+      2.2
+    ]
+  },
+  "cost": {
+    "analyses": 48,
+    "estimated_usd": 0.38,
+    "note": "estimate at published Gemini 3.8 Flash token prices"
+  }
+}

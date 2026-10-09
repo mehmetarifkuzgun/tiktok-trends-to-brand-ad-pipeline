@@ -1,0 +1,8 @@
+{
+  "video_id": "7683712391275678996",
+  "weighted_score": 3.15,
+  "threshold": 3.5,
+  "status": "rejected",
+  "reasoning_summary": "Weighted score 3.15 vs. threshold 3.5 -> rejected. Weakest criterion: brand_fit (2/5 -- The frantic chaos clashes with brand serenity, though it could serve as an extreme 'rush' contrast before a calm ritual.)",
+  "scored_for_brand": "Kahve Maya"
+}

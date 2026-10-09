@@ -1,0 +1,35 @@
+{
+  "video_id": "7686592609673858317",
+  "content_summary": "Holding an iced drink in a jar, a woman gestures cheerfully to the camera while lip-syncing to audio admitting she did nothing all day, framed by on-screen text about being asked how her day went while unemployed.",
+  "narrative_skeleton": "Relatable situational prompt as on-screen text -> direct-to-camera cheerful deadpan confession embracing having done absolutely nothing.",
+  "hook_type": "POV",
+  "hook_timing_sec": 0.8,
+  "pacing": "medium",
+  "has_spoken_dialogue": true,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "self-deprecating deadpan humor",
+  "scores": {
+    "narrative_transferability": {
+      "value": 5,
+      "reasoning": "The simple setup of responding to a conventional productivity check-in with proud stillness translates effortlessly to any context or subject."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "Clear, high-contrast text prompt paired with an upbeat conversational delivery immediately engages scrolling viewers."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Requires only a single actor holding a cup in front of a phone camera in one location with zero effects."
+    },
+    "brand_fit": {
+      "value": 4,
+      "reasoning": "Easily recontextualized as gentle, self-aware humor celebrating taking a guilt-free slow ritual or coffee pause instead of rushing."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "The trending audio track would need commercial clearance if used directly, but the spoken script and concept can be re-recorded cleanly in-house without IP concerns."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

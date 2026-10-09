@@ -1,0 +1,8 @@
+{
+  "video_id": "7563448719253720376",
+  "weighted_score": 1.2,
+  "threshold": 3.5,
+  "status": "rejected",
+  "reasoning_summary": "Weighted score 1.20 vs. threshold 3.5 -> rejected. Weakest criterion: narrative_transferability (1/5 -- The clip is standard fan-edit concert footage centered around a specific celebrity performance with no reproducible storytelling mechanics or narrative framework.)",
+  "scored_for_brand": "Kahve Maya"
+}

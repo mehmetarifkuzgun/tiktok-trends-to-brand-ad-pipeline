@@ -1,0 +1,35 @@
+{
+  "video_id": "7670824295446088981",
+  "content_summary": "A woman sits late at night surrounded by stacked phone boxes, checking orders on her phone while packaging items, accompanied by on-screen text about late-night small business hustle.",
+  "narrative_skeleton": "A provocative text statement contrasts glamorous lifestyle tropes against quiet, unglamorous late-night solitary preparation to highlight dedication to a craft.",
+  "hook_type": "POV",
+  "hook_timing_sec": 0.5,
+  "pacing": "slow",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "quiet determination",
+  "scores": {
+    "narrative_transferability": {
+      "value": 4,
+      "reasoning": "The contrast between a provocative hot-take text hook and solitary manual preparation easily translates to coffee roasting or cafe prep."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "The bold text hook immediately stops scrolling by subverting common social media status tropes."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Single static camera angle, quiet indoor setting, and no dialogue make reproduction extremely straightforward."
+    },
+    "brand_fit": {
+      "value": 4,
+      "reasoning": "Aligns strongly with unglamorous behind-the-scenes craft and quiet preparation, fitting the slow-ritual ethos."
+    },
+    "licensing_safety": {
+      "value": 3,
+      "reasoning": "Contains visible third-party tech logos and commercial audio, requiring generic props and original sound for adaptation."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

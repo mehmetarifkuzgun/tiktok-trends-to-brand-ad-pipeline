@@ -1,0 +1,8 @@
+{
+  "video_id": "7687395619169717534",
+  "weighted_score": 3.9,
+  "threshold": 3.5,
+  "status": "accepted",
+  "reasoning_summary": "Weighted score 3.90 vs. threshold 3.5 -> accepted. Weakest criterion: brand_fit (3/5 -- Could support gentle self-aware humor about rushing or skipping a daily pause, though the confrontational stalker meme trope needs softening to fit Kahve Maya's calm aesthetic.)",
+  "scored_for_brand": "Kahve Maya"
+}

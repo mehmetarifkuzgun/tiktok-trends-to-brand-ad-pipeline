@@ -1,0 +1,8 @@
+{
+  "video_id": "7616812420924722439",
+  "weighted_score": 2.05,
+  "threshold": 3.5,
+  "status": "rejected",
+  "reasoning_summary": "Weighted score 2.05 vs. threshold 3.5 -> rejected. Weakest criterion: brand_fit (1/5 -- Loud, chaotic combat gameplay and meme audio directly conflict with the brand's calm, slow-ritual aesthetic.)",
+  "scored_for_brand": "Kahve Maya"
+}

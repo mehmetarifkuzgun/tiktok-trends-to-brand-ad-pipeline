@@ -1,0 +1,8 @@
+{
+  "narrative_transferability": 0.30,
+  "hook_strength": 0.20,
+  "production_feasibility": 0.15,
+  "brand_fit": 0.25,
+  "licensing_safety": 0.10,
+  "accept_threshold": 3.5
+}

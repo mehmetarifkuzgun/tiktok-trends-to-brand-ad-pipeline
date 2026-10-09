@@ -1,0 +1,34 @@
+# Secrets and local tooling
+.env
+.env.*
+!.env.example
+.claude/
+
+# Anything staged for removal before publication (never published)
+_REMOVED_NOT_FOR_PUBLICATION/
+_REMOVED_*/
+
+# Python / caches
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.mypy_cache/
+
+# Interrupted downloads
+*.part
+
+# Third-party TikTok source videos are never redistributed. Their metadata (.json), analyses and
+# decisions stay tracked, so every video is still identifiable by id and source URL.
+artifacts/*/raw/*.mp4
+
+# Generated output: ads and intermediate renders are produced locally and not published here.
+artifacts/*/final_video*.mp4
+artifacts/*/generated_clips*/
+artifacts/*/poster*.jpg
+artifacts/*/pip_insert.jpg
+artifacts/*/archive_*/
+
+# Inspection reports quote third-party captions; generated locally, never published
+artifacts/caption_inspection.md
+artifacts/anchor_inspection.md

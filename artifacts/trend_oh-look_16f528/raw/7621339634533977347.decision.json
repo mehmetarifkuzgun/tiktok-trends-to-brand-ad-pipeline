@@ -1,0 +1,8 @@
+{
+  "video_id": "7621339634533977347",
+  "weighted_score": 1.9,
+  "threshold": 3.5,
+  "status": "rejected",
+  "reasoning_summary": "Weighted score 1.90 vs. threshold 3.5 -> rejected. Weakest criterion: narrative_transferability (1/5 -- Lacks any narrative structure; it is purely an isolated audio effect template.)",
+  "scored_for_brand": "Kahve Maya"
+}

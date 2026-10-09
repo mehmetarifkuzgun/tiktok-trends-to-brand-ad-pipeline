@@ -1,0 +1,2059 @@
+{
+  "groups": [
+    {
+      "trend_id_hint": "did-i-win-this-trend-ramalama",
+      "canonical_trend_name": "Did I Win This Trend? / Ramalama Reveal",
+      "merged_from_sources": [
+        "socialpilot",
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A dramatic Halloween costume beat-drop reveal that is event-specific and relies on fast shock value rather than unhurried brand storytelling.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@nataliireynoldss/video/7692957276587429150",
+        "https://www.tiktok.com/@benjikrol/video/7562989816338566422"
+      ],
+      "sound_name": "Ramalama (Bang Bang) - Róisín Murphy"
+    },
+    {
+      "trend_id_hint": "31-days-of-halloween",
+      "canonical_trend_name": "31 Days of Halloween",
+      "merged_from_sources": [
+        "socialpilot"
+      ],
+      "status": "rejected",
+      "reasoning": "Calendar-bound daily holiday countdown format tied strictly to spooky season themes rather than a transferable brand narrative.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@notsophiesilva/video/7691569613942951199"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "halloween-home-tour",
+      "canonical_trend_name": "Halloween Home Tour",
+      "merged_from_sources": [
+        "socialpilot"
+      ],
+      "status": "rejected",
+      "reasoning": "A seasonal walk-through home decor showcase that is tied to holiday decorating rather than an adaptable narrative arc.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@macy.blackwell/video/7690194386931502366"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "creepy-fact-storytime",
+      "canonical_trend_name": "Creepy Fact Storytime",
+      "merged_from_sources": [
+        "socialpilot"
+      ],
+      "status": "rejected",
+      "reasoning": "Horror and uncanny trivia format aimed at shock or unsettling feelings, conflicting directly with the calm, warm aesthetic of the brand.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@theparanormal1/video/7691920867508358414"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "viral-dance-fit-check",
+      "canonical_trend_name": "Viral Dance, But Make It a Fit Check",
+      "merged_from_sources": [
+        "socialpilot"
+      ],
+      "status": "rejected",
+      "reasoning": "A pure choreographed dance challenge combined with outfit tagging, lacking any narrative structure or pacing.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@heymissteacher/video/7692213401023433998"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "city-taste-test-review",
+      "canonical_trend_name": "#CityTasteTest Honest Local Review",
+      "merged_from_sources": [
+        "socialpilot"
+      ],
+      "status": "rejected",
+      "reasoning": "A platform-run contest hashtag and standard foodie review format rather than a distinct creative storytelling mechanic.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@bananitotravels21/video/7688419757669813518"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "homecoming-proposal-reveal",
+      "canonical_trend_name": "Homecoming Proposal Reveal",
+      "merged_from_sources": [
+        "socialpilot"
+      ],
+      "status": "rejected",
+      "reasoning": "A high-school milestone event clip with no narrative structure reusable outside of personal proposals.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@itslanabruh6/video/7689683554724252941"
+      ],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "oh-look-panic-to-calm",
+      "canonical_trend_name": "Oh look",
+      "merged_from_sources": [
+        "ramdam"
+      ],
+      "status": "accepted",
+      "reasoning": "Naturally maps to the rush-to-calm beat by contrasting an overwhelming or chaotic state with deliberate, instantaneous stillness.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@sophia.sadolin/video/7687602399929765142",
+        "https://www.tiktok.com/@rowan.chapman1/video/7687326560625397005"
+      ],
+      "sound_name": "sonido original - user077983456"
+    },
+    {
+      "trend_id_hint": "text-from-a",
+      "canonical_trend_name": "Text From \"A\"",
+      "merged_from_sources": [
+        "ramdam",
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A versatile deadpan reveal format that enables gentle self-aware humor exposing relatable daily habits like rushing or excessive screen time.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@nia.lavine/video/7687395619169717534",
+        "https://www.tiktok.com/@xplamedi/video/7687334244154101024",
+        "https://www.tiktok.com/@desipaddy/video/7689485377765149974"
+      ],
+      "sound_name": "pll purposes only ty - demi devito"
+    },
+    {
+      "trend_id_hint": "some-place-youre-not-going-to-like",
+      "canonical_trend_name": "Some Place You're Not Going To Like...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A negative expectation-versus-reality lip-sync focused primarily on travel pain points and frustration.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@astr0girl_0/video/7688447802254429453"
+      ],
+      "sound_name": "original sound - teatwoer"
+    },
+    {
+      "trend_id_hint": "i-did-nothing",
+      "canonical_trend_name": "I Did Nothing...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A gentle deadpan setup celebrating having nothing urgent to contribute, easily reframed around savoring a quiet pause.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@berlyn.yvonne/video/7686592609673858317"
+      ],
+      "sound_name": "original sound - RIZADOINK"
+    },
+    {
+      "trend_id_hint": "i-want-the-best-for-you",
+      "canonical_trend_name": "I Want The Best For You",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Driven by a specific celebrity vocal sample with dramatic reality-TV irony that feels off-brand and carries licensing risk.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@greatlakeshonda/video/7595969526026489108"
+      ],
+      "sound_name": "original sound - shoppyshopicon"
+    },
+    {
+      "trend_id_hint": "why-would-i-deceive-you",
+      "canonical_trend_name": "Why Would I Deceive You?",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Relies entirely on an Elizabeth Holmes documentary clip snippet playing into deception and corporate scam jokes.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@lexoncinema/video/7684305885983690014"
+      ],
+      "sound_name": "original sound - Blaine"
+    },
+    {
+      "trend_id_hint": "dramatic-transition",
+      "canonical_trend_name": "Dramatic Transition",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Transitions downward from a happy moment into sorrow and melancholy, opposite of the uplifting calm and satisfaction the brand evokes.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@olliemuhl/video/7678405863895305486"
+      ],
+      "sound_name": "original sound - rand6m11"
+    },
+    {
+      "trend_id_hint": "prized-possession",
+      "canonical_trend_name": "Prized Possession",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A flexible showcase format celebrating an item treated with extreme affection, perfectly applicable to staging coffee craft as a small luxury.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@meg.k8/video/7678196941913607455"
+      ],
+      "sound_name": "original sound - Angelo David"
+    },
+    {
+      "trend_id_hint": "guess-the-number",
+      "canonical_trend_name": "Guess the Number",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A conversational parlor game challenge between people with no cinematic narrative arc or sensory brand relevance.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@not.eg/video/7680328509054602526"
+      ],
+      "sound_name": "original sound - EMMA GRACE"
+    },
+    {
+      "trend_id_hint": "someones-gotta-hold-it-down",
+      "canonical_trend_name": "Someone's Gotta Hold It Down",
+      "merged_from_sources": [
+        "medianug",
+        "napoleoncat"
+      ],
+      "status": "accepted",
+      "reasoning": "Celebrates the quiet dignity of unglamorous solitary craft while everyone else rushes off, fitting the brand's slow-ritual atmosphere perfectly.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@dewitt.lending.te/video/7677973717716077854",
+        "https://www.tiktok.com/@maeyoww_/video/7670824295446088981"
+      ],
+      "sound_name": "Ain’t In LA - ADÉLA"
+    },
+    {
+      "trend_id_hint": "least-interesting-thing-about-me",
+      "canonical_trend_name": "Least Interesting Thing About Me",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A modular photo carousel structure showing hidden layers of depth under an unassuming exterior, adaptable to craft and subtle quality.",
+      "example_video_urls": [],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "chanty-beluga",
+      "canonical_trend_name": "Chanty Beluga",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Locked completely to a specific viral internet personality and absurdist inside jokes without an adaptable structure.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@chantybeluga/video/7674001683457789215"
+      ],
+      "sound_name": "original sound - Chanty Beluga"
+    },
+    {
+      "trend_id_hint": "kinda-chic",
+      "canonical_trend_name": "Kinda Chic",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A text-overlay format reframing ordinary slow moments as effortlessly stylish, lending itself directly to the small-luxury narrative beat.",
+      "example_video_urls": [],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "can-i-try-yours",
+      "canonical_trend_name": "Can I Try Yours?",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A wholesome, beverage-centered swapping ritual between two people that naturally translates to quiet café companionship.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@isseypovs/video/7667640333148196118"
+      ],
+      "sound_name": "son original - sop 𝔖"
+    },
+    {
+      "trend_id_hint": "pretend-stairs",
+      "canonical_trend_name": "Pretend Stairs",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A purely physical slapstick gag involving furniture mime with no narrative depth or brand fit.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@mariahandbill/video/7667303061936770335"
+      ],
+      "sound_name": "Beat It - Michael Jackson"
+    },
+    {
+      "trend_id_hint": "reasons-to-unfollow-me",
+      "canonical_trend_name": "Reasons to Unfollow Me",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A deadpan list of harmless personal quirks that easily adapts to self-aware humor around coffee obsession and taking too long to brew.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@haileyisbomb.com/video/7665173596939078942"
+      ],
+      "sound_name": "original sound - sped up 2000’s audios"
+    },
+    {
+      "trend_id_hint": "timestamps",
+      "canonical_trend_name": "Timestamps",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Features calm, unhurried cinematic visual vignettes paired with times of day, directly echoing Kahve Maya's ritual-of-time premise.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@adrienneleekelly/video/7661255612499627278"
+      ],
+      "sound_name": "original sound - summer audios"
+    },
+    {
+      "trend_id_hint": "things-worth-the-money",
+      "canonical_trend_name": "Things Worth the Money",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A grounded recommendation format highlighting items that justify their cost through tangible craft and everyday pleasure.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@laurenkkim0/video/7664727568834137375"
+      ],
+      "sound_name": "original sound - Lauren Kim"
+    },
+    {
+      "trend_id_hint": "changing-the-question",
+      "canonical_trend_name": "Changing the Question",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "An office prank format relying on editing trickery and gotchas rather than warm or calming storytelling.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@bgcbentonfranklin/video/7654312878966639886"
+      ],
+      "sound_name": "original sound - Boys & Girls Clubs of BFC"
+    },
+    {
+      "trend_id_hint": "preparing-for-a-documentary",
+      "canonical_trend_name": "Preparing for a Documentary",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A mock-serious sit-down interview framing a mundane ritual as deeply consequential, ideal for deadpan craft appreciation.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@suckafreekells/video/7657722881215958303"
+      ],
+      "sound_name": "On a Mission - Duomo"
+    },
+    {
+      "trend_id_hint": "what-sound-does-it-make",
+      "canonical_trend_name": "What Sound Does it Make",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A gag-driven sound effect prank focused on vocal mimicry rather than a transferable visual story.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@espn/video/7658376661783645453"
+      ],
+      "sound_name": "original sound - ESPN"
+    },
+    {
+      "trend_id_hint": "your-camera-roll-if-you-were-dating",
+      "canonical_trend_name": "Your camera roll if you were dating...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "An aesthetic photo montage capturing cozy, sensory perspectives of a place or lifestyle that translates seamlessly into café ambiance.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@wayamayayayayaya/video/7658422909744074015"
+      ],
+      "sound_name": "original sound - 𝙩𝙖𝙩𝙞 ˙⋆✮"
+    },
+    {
+      "trend_id_hint": "no-no-no-no",
+      "canonical_trend_name": "No No No NO",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A chaotic, loud freakout sound from a specific movie promo centered on things going wrong.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@kaylahlou/video/7648755495322275094"
+      ],
+      "sound_name": "original sound - I Green Screen Things"
+    },
+    {
+      "trend_id_hint": "guess-who-pet-edition",
+      "canonical_trend_name": "Guess Who... Pet Edition",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A pet-specific confessional prank dependent on pet ownership dynamics rather than an adaptable commercial premise.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@joethecatdad/video/7652112916337937695"
+      ],
+      "sound_name": "original sound - Joe The Cat Dad"
+    },
+    {
+      "trend_id_hint": "girl-grip",
+      "canonical_trend_name": "Girl Grip",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A hyper-niche joke specifically focused on female fashion lacking functional pockets, offering little narrative structure to adapt.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@gisou/video/7650971213048728865"
+      ],
+      "sound_name": "original sound - Gisou"
+    },
+    {
+      "trend_id_hint": "tone-change",
+      "canonical_trend_name": "Tone Change",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "An acting performance exercise delivering a single phrase in multiple intonations, lacking story progression.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@jaydenbanks04/video/7641607615654399245"
+      ],
+      "sound_name": "original sound - Jayden Banks"
+    },
+    {
+      "trend_id_hint": "no-gap",
+      "canonical_trend_name": "No Gap",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A couples sync flex highlighting identical partner traits, confined to interpersonal relationship validation.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@ivmullins/video/7630152506185911559"
+      ],
+      "sound_name": "original sound - starhghirl"
+    },
+    {
+      "trend_id_hint": "are-you-mad-at-me",
+      "canonical_trend_name": "Are you mad at me?",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A specific in-car relationship bit based on physical avoidance and passive-aggressive conflict.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@yunabugs/video/7644701325183290638"
+      ],
+      "sound_name": "original sound - 🌻Meg and Jack🌻"
+    },
+    {
+      "trend_id_hint": "voila-manifestation-cut",
+      "canonical_trend_name": "Voilá",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A clean visual snap cut where an object appears instantly between one's hands, easily applied to manifesting a warm freshly brewed cup.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@dear_terryberry/video/7643355994147376398"
+      ],
+      "sound_name": "Delirious - ｘｕｎ"
+    },
+    {
+      "trend_id_hint": "matching-the-song",
+      "canonical_trend_name": "Matching the Song",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "An internal workplace colleague-tagging game with little relevance to customer-facing narrative arcs.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@1stphorm/video/7639844922194939167"
+      ],
+      "sound_name": "original sound - 1st Phorm"
+    },
+    {
+      "trend_id_hint": "thats-not-my-name",
+      "canonical_trend_name": "That's Not My Name",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A deadpan denial format pretending an overly specific callout does not apply, suitable for light humor about artisanal coffee habits.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@cassiscastle/video/7633884340736265502"
+      ],
+      "sound_name": "son original - LePtitMilo"
+    },
+    {
+      "trend_id_hint": "marketing-battle",
+      "canonical_trend_name": "Marketing Battle",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Meta-industry commentary comparing generational ad copywriting styles, unsuited for a warm, craft-driven consumer presence.",
+      "example_video_urls": [],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "emo-song-texts",
+      "canonical_trend_name": "Emo Song Texts",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A chaotic musical parody turning melodramatic teenage text exchanges into angst-ridden songs.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@jae.murphy/video/7629508923959135518"
+      ],
+      "sound_name": "original sound - Janae"
+    },
+    {
+      "trend_id_hint": "top-5-horror-movies",
+      "canonical_trend_name": "Top 5 Horror Movies",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A deadpan ranking structure subverting horror lists with everyday micro-annoyances like running out of beans or cold coffee.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@_izzyjohnson_/video/7628394605125324045"
+      ],
+      "sound_name": "The One That Got Away - Katy Perry"
+    },
+    {
+      "trend_id_hint": "recreating-memes",
+      "canonical_trend_name": "Recreating Memes",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A casual group game recreating viral web pictures, lacking an adaptable original story arc.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@drinkpoppi/video/7631659173733747999"
+      ],
+      "sound_name": "Jazz Bossa Nova - TOKYO Lonesome Blue"
+    },
+    {
+      "trend_id_hint": "thats-my-why",
+      "canonical_trend_name": "That's My Why",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A grounded reflection framing deliberate personal choices, cleanly aligning with choosing a slower pace over constant hustle.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@lannea_dummar/video/7627999338173713677"
+      ],
+      "sound_name": "original sound - choy - wallace"
+    },
+    {
+      "trend_id_hint": "everything-hallelujah",
+      "canonical_trend_name": "Everything Hallelujah",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Pairs slow, peaceful audio with simple sensory appreciation moments, fitting Kahve Maya's unhurried aesthetic effortlessly.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@reuniontaptable/video/7630464648768228639"
+      ],
+      "sound_name": "Originalton - aboutfufu"
+    },
+    {
+      "trend_id_hint": "norman-rockwell",
+      "canonical_trend_name": "Norman Rockwell",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Analyzes chaotic pop-culture memes through an ironic fine-art lens, too detached and meme-reliant for the brand voice.",
+      "example_video_urls": [],
+      "sound_name": null
+    },
+    {
+      "trend_id_hint": "so-cute",
+      "canonical_trend_name": "SO CUTE!",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Standard pet video format dedicated exclusively to showcasing cute animal behaviors.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@tinyttobi/video/7624901204014943510"
+      ],
+      "sound_name": "original sound - ⌗ 𝒊𝒕𝒂𝒅𝒐𝒓𝒊𝒊 ⋆🌷͙⋆"
+    },
+    {
+      "trend_id_hint": "we-cant-talk-here",
+      "canonical_trend_name": "We Can't Talk Here...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Humorously romanticizes unplugging completely to immerse oneself in consuming something delicious without interruption.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@bre_summer/video/7622755408674868493"
+      ],
+      "sound_name": "original sound - martnreviews"
+    },
+    {
+      "trend_id_hint": "ive-been-reading",
+      "canonical_trend_name": "I've Been Reading...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A charming book-reveal setup that works well with cozy café reading or deadpan joke books about slowing down.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@zainaltixzp/video/7617000422514953485"
+      ],
+      "sound_name": "Something Just Like This - The Chainsmokers & Coldplay"
+    },
+    {
+      "trend_id_hint": "headphone-swap",
+      "canonical_trend_name": "Headphone Swap",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A scripted romantic meet-cute or awkward encounter setup dependent on melodramatic acting.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@andy.and.michelle/video/7620532238412827918"
+      ],
+      "sound_name": "original sound - Andy & Michelle"
+    },
+    {
+      "trend_id_hint": "plan-a-vs-plan-b",
+      "canonical_trend_name": "Unexpected Life Plan / Plan B",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A relatable before-and-after pivot highlighting an unexpected life turn, easily reframed as choosing the quiet café life over the corporate grind.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@sophiafujimaki/video/7492502904905960747",
+        "https://www.tiktok.com/@goodthattttt/video/7531530097145302302"
+      ],
+      "sound_name": "bound 2 x nemzzz type beat remix prod vior - user40325749942"
+    },
+    {
+      "trend_id_hint": "90s-trend-nostalgia",
+      "canonical_trend_name": "90s Trend",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Personal nostalgic scrapbook format requiring archival family or celebrity footage.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@reesewitherspoon/video/7139552167207374126"
+      ],
+      "sound_name": "Teenage Dirtbag - Sped Up (and she doesn't give a damn about me) (Sped Up) - Wheatus & slater"
+    },
+    {
+      "trend_id_hint": "obsessed-with-me",
+      "canonical_trend_name": "Obsessed With Me",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A public prank shouting at strangers to capture confused reactions, directly violating the brand's calm and unaggressive tone.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@nataliireynoldss/video/7615426833458236685"
+      ],
+      "sound_name": "original sound - Natalie Reynolds"
+    },
+    {
+      "trend_id_hint": "212-dance",
+      "canonical_trend_name": "212 Dance",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A fast-paced audio-sync dance routine centered on number coincidences without a clear narrative arc.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@leasjahjenae/video/7614320431553629471"
+      ],
+      "sound_name": "Azealia Banks . 212 instrumental - pusiquita"
+    },
+    {
+      "trend_id_hint": "you-told-tyra",
+      "canonical_trend_name": "You Told Tyra",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Tied exclusively to vintage reality television clips and commentary on Tyra Banks.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@kevy0h/video/7609476329821555988"
+      ],
+      "sound_name": "original sound  - ntm.archives"
+    },
+    {
+      "trend_id_hint": "this-is-who",
+      "canonical_trend_name": "This is who...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Relies on personal baby pictures juxtaposed with adult responsibilities, making it personal-photo locked.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@dennisgmcornerbrook/video/7611522493794225426"
+      ],
+      "sound_name": "som original - RLorenzi77"
+    },
+    {
+      "trend_id_hint": "punch-the-monkey",
+      "canonical_trend_name": "Punch, the Monkey",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A hyper-specific viral news story about an individual zoo animal with no transferable brand framework.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@chris/video/7612719364080471310"
+      ],
+      "sound_name": "Mr. Blue Sky - Electric Light Orchestra"
+    },
+    {
+      "trend_id_hint": "this-wasnt-supposed-to-be-a-love-song",
+      "canonical_trend_name": "This wasn't supposed to be a love song...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A personal romantic couple reveal with limited versatility beyond genuine relationship showcases.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@toriiiitellini/video/7607342612101483807"
+      ],
+      "sound_name": "original sound - r"
+    },
+    {
+      "trend_id_hint": "not-playing-on-our-phone",
+      "canonical_trend_name": "Not playing on our phone.",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Playfully highlights screen-free focus while teasing modern phone addiction, which aligns seamlessly with Kahve Maya's ritual pause.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@your.faverite.125/video/7599805898705358111"
+      ],
+      "sound_name": "original sound - your faverite 125"
+    },
+    {
+      "trend_id_hint": "are-they-on-the-way",
+      "canonical_trend_name": "Are they on the way? Or...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Focused on comedic dating delusions and romantic expectations rather than craft or lifestyle themes.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@julia.g.patel/video/7605238678675377421"
+      ],
+      "sound_name": "original sound - caribbeanbaddies_"
+    },
+    {
+      "trend_id_hint": "cool-but-not",
+      "canonical_trend_name": "Cool, but not",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Subverts famous tourist spots in favor of an intimate, cherished local corner, echoing Kahve Maya's artisanal neighborhood identity.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@jade_emmanuelle/video/7597309005236669710"
+      ],
+      "sound_name": "Distractions - Haiti Babii"
+    },
+    {
+      "trend_id_hint": "girls-night-tea-spill",
+      "canonical_trend_name": "Girl's Night Tea Spill",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Couple banter centered around gossip from nightlife parties, which conflicts with the cafe's serene brand identity.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@henripalms/video/7602376932356869398"
+      ],
+      "sound_name": "original sound - bliss"
+    },
+    {
+      "trend_id_hint": "faithful-traitors-trend",
+      "canonical_trend_name": "Faithful",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A dramatic trust-paranoia format directly referencing the reality game show Traitors.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@mrashleyhaynes/video/7598877664811765014"
+      ],
+      "sound_name": "original sound - The Tab"
+    },
+    {
+      "trend_id_hint": "an-owl-but-its",
+      "canonical_trend_name": "An Owl but it’s...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A vocal impression comedy bit mimicking accents through bird noises, lacking narrative application.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@asharawilson/video/7596894412039310605"
+      ],
+      "sound_name": "original sound - Ashara Wilson"
+    },
+    {
+      "trend_id_hint": "2016-nostalgia",
+      "canonical_trend_name": "2016",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Requires personal photo archives from a specific calendar year rather than an adaptable narrative template.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@notgr4ce/video/7592703405424954655"
+      ],
+      "sound_name": "original sound - cxld"
+    },
+    {
+      "trend_id_hint": "die-in-this-house",
+      "canonical_trend_name": "Die in this house",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Exaggerated existential dread and dramatic frustration to hyper-energetic Charli XCX music, clashing with Kahve Maya's peaceful tone.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@brighterdaysaheadincc/video/7590400776443383054"
+      ],
+      "sound_name": "House featuring John Cale - Charli xcx & John Cale"
+    },
+    {
+      "trend_id_hint": "you-have-to-believe-me",
+      "canonical_trend_name": "You Have to Believe Me!",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A frantic pop-culture audio rip from Stranger Things depicting manic obsession and urgency.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@dakb0b/video/7590560166198791454"
+      ],
+      "sound_name": "original sound - user"
+    },
+    {
+      "trend_id_hint": "grab-setting-spray",
+      "canonical_trend_name": "Grab Setting Spray",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A slapstick beauty skit mistaking cosmetic spray for pepper spray during a confrontation.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@sophiaadesilva/video/7587671362525744398"
+      ],
+      "sound_name": "original sound - Darren"
+    },
+    {
+      "trend_id_hint": "nye-resolutions",
+      "canonical_trend_name": "NYE Resolutions",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A contemplative text montage over tranquil clips articulating intentional habits, effortlessly matching slow living.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@thehanniediaries/video/7590406343081626935"
+      ],
+      "sound_name": "Seabird - Innovations"
+    },
+    {
+      "trend_id_hint": "yiwang-yiwang-dou-yiwang",
+      "canonical_trend_name": "Yiwang Yiwang Dou Yiwang",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A comedic audio-sync acting out silly petty disagreements between friends.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@camilla/video/7578192969782529293"
+      ],
+      "sound_name": "argeentai - arish"
+    },
+    {
+      "trend_id_hint": "spongebob-dance",
+      "canonical_trend_name": "Spongebob Dance",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A purely goofy musical theater dance challenge devoid of transferable brand storytelling.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@rachelheheh/video/7584470004310084871"
+      ],
+      "sound_name": "original sound - Victoriaaaa🖤666"
+    },
+    {
+      "trend_id_hint": "all-i-want-for-christmas",
+      "canonical_trend_name": "All I want for Christmas is...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A holiday-locked wishlist audio format tied specifically to December festivities.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@ivorylovesbooks/video/7305957647986003230"
+      ],
+      "sound_name": "оригинальный звук - honeybaby🪄"
+    },
+    {
+      "trend_id_hint": "kershaw-method",
+      "canonical_trend_name": "Kershaw Method",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Exemplifies the rush-to-calm beat by cutting immediately from a chaotic situation into a slow, elegant runway-style walk.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@joejonas/video/7581597703184911629"
+      ],
+      "sound_name": "Undone - ↻ ◁ II ▷ ↺"
+    },
+    {
+      "trend_id_hint": "storage-is-full",
+      "canonical_trend_name": "Storage is Full",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A personal phone camera-roll dump containing chaotic screenshots and disjointed personal photos.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@ganglain/video/7580106644634291486"
+      ],
+      "sound_name": "White Iverson - Post Malone"
+    },
+    {
+      "trend_id_hint": "say-your-stupid-line",
+      "canonical_trend_name": "Say your stupid line",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A self-deprecating audio format highlighting an iconic predictable catchphrase, easily adapted to predictable coffee rituals.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@madelame/video/7577997713292266807"
+      ],
+      "sound_name": "original sound - dqrksiren"
+    },
+    {
+      "trend_id_hint": "welcome-to-jackass",
+      "canonical_trend_name": "Welcome to Jacka*s",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Reckless, mischievous, and chaotic stunt pranks that are incompatible with Kahve Maya's serene space.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@stuffkarensays/video/7572621072953118007"
+      ],
+      "sound_name": "Jackass theme - (creator redacted)"
+    },
+    {
+      "trend_id_hint": "important-that-you-listen",
+      "canonical_trend_name": "Important that you listen...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A thoughtful storytelling structure sharing pivotal life wisdom about slowing down and prioritizing mental quiet.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@jihoon/video/7574952733736733974"
+      ],
+      "sound_name": "original sound - amai ♡ ❇️✴️"
+    },
+    {
+      "trend_id_hint": "wabi-sabi",
+      "canonical_trend_name": "Wabi Sabi",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Focuses on finding quiet beauty in handmade craft imperfections, resonating profoundly with specialty coffee brewing.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@rocketthechocolatelab/video/7572696808871267639"
+      ],
+      "sound_name": "original sound - LUX"
+    },
+    {
+      "trend_id_hint": "flow-state",
+      "canonical_trend_name": "Flow State",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Directly embodies the slow-ritual beat by documenting deliberate, mindful absorption in a craft without regard for time.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@22.ryleigh/video/7572722967256337694"
+      ],
+      "sound_name": "original sound - Jenjen"
+    },
+    {
+      "trend_id_hint": "me-omw",
+      "canonical_trend_name": "Me OMW",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A repeatable walking clip format with ironic text about rushing back to an indulgence, easily customized for an afternoon café break.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@msrigopoulis/video/7569349446954257678"
+      ],
+      "sound_name": "original sound - Ｎｉｍｐｌｉｑ"
+    },
+    {
+      "trend_id_hint": "why-would-i-judge",
+      "canonical_trend_name": "Why Would I...?",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A plot-based text joke reciting absurd movie synopses under the guise of avoiding judgment.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@lindseygurk/video/7570744712018054413"
+      ],
+      "sound_name": "suono originale - 𝙗𝙗𝙚𝙮𝙙𝙖𝙮"
+    },
+    {
+      "trend_id_hint": "lying-challenge",
+      "canonical_trend_name": "Lying Challenge",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A two-person deception party game lacking any narrative or atmospheric brand synergy.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@mmmjoemele/video/7569742362012945694"
+      ],
+      "sound_name": "original sound - Joe Mele"
+    },
+    {
+      "trend_id_hint": "from-the-same-place",
+      "canonical_trend_name": "From the Same Place",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Regional bonding sound centered on shared geographic upbringing and local slang.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@courtreezy0/video/7564615625197260062"
+      ],
+      "sound_name": "we from the same place the Bronx - HNDSUM"
+    },
+    {
+      "trend_id_hint": "moms-texts",
+      "canonical_trend_name": "Mom's Texts",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Requires personal private family text screenshots showcasing bizarre or chaotic parent remarks.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@queenalexisx/video/7571830185184546078"
+      ],
+      "sound_name": "original sound - brandon"
+    },
+    {
+      "trend_id_hint": "seeing-if-we-have-a-hidden-talent",
+      "canonical_trend_name": "Seeing If We Have a Hidden Talent",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Office karaoke singing challenge trying to hit high notes, focused on humorous vocal failure.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@lascoford/video/7559614647838493966"
+      ],
+      "sound_name": "original sound - Lasco Ford"
+    },
+    {
+      "trend_id_hint": "crowd-goes-mild",
+      "canonical_trend_name": "Crowd Goes Mild",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Contrasts loud explosive praise for one thing with dead silence for another, great for deadpan comedy around instant vs artisanal pour-over.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@marinamearss/video/7559788931932261662"
+      ],
+      "sound_name": "original sound - Jamie Serrano"
+    },
+    {
+      "trend_id_hint": "backup-dancer",
+      "canonical_trend_name": "Backup Dancer",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A pure dance-along reward skit with no transferable brand story.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@wfh_nurse_baddie/video/7557504800221416759"
+      ],
+      "sound_name": "original sound - DJ FAZIO"
+    },
+    {
+      "trend_id_hint": "the-fate-of-ophelia",
+      "canonical_trend_name": "The Fate of Ophelia",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A generic background music bed with no specific creative constraint or narrative mechanism.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@k0uvr/video/7557387489833504031"
+      ],
+      "sound_name": "The Fate of Ophelia - Taylor Swift"
+    },
+    {
+      "trend_id_hint": "whats-going-on-remix",
+      "canonical_trend_name": "What's Going On",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A back-to-back lip-sync routine over an energetic hip-hop mashup with no storyline.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@fredsnightmares/video/7557207559988464926"
+      ],
+      "sound_name": "original sound - dj auxlord"
+    },
+    {
+      "trend_id_hint": "maui-wowie",
+      "canonical_trend_name": "Maui Wowie",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Physical stunt challenge dangling from outdoor poles and street signs, unfit for a calm upscale hospitality brand.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@redacted_handle/video/7560135432512474381"
+      ],
+      "sound_name": "Maui Wowie - Kid Cudi"
+    },
+    {
+      "trend_id_hint": "movie-night-snack",
+      "canonical_trend_name": "Movie Night Snack",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A grocery aisle supermarket haul and debate challenge among friends.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@brookemonk_/video/7559685701302750495"
+      ],
+      "sound_name": "original sound - Brooke Monk"
+    },
+    {
+      "trend_id_hint": "ai-photo-prank",
+      "canonical_trend_name": "AI Photo Prank",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A household prank using generative imagery to deceive roommates, reliant on shock reactions.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@phoebeanddan/video/7558238676069731639"
+      ],
+      "sound_name": "Blue Danube Waltz - London Symphony Orchestra"
+    },
+    {
+      "trend_id_hint": "the-lion-doesnt-concern",
+      "canonical_trend_name": "The Lion Doesn't Concern...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Subverts self-serious alpha quotes with unhurried, trivial everyday priorities, fitting gentle self-aware humor.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@asclepiarydiaries/video/7554877292556586295"
+      ],
+      "sound_name": "original sound - 00srunway"
+    },
+    {
+      "trend_id_hint": "betrayal-list",
+      "canonical_trend_name": "Betrayal List 2.0",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A deadpan listicle format airing petty everyday betrayals, such as a lukewarm cup or an empty grinder, with mild self-mockery.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@findingfrancesca_/video/7557442490148588814"
+      ],
+      "sound_name": "Runaway - Kanye West"
+    },
+    {
+      "trend_id_hint": "girl-whatever",
+      "canonical_trend_name": "Girl Whatever",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A calm, romanticized cinematic audio paired with tranquil visuals capturing an unhurried, peaceful mindset.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@sunrise.enjoyer/video/7553670779301367095"
+      ],
+      "sound_name": "original sound - zpeaknow"
+    },
+    {
+      "trend_id_hint": "handshake-fakeout",
+      "canonical_trend_name": "Handshake Fakeout",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A physical handshake fake-out dance gag without an adaptable storytelling spine.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@sendablixz/video/7554640884688588062"
+      ],
+      "sound_name": "Drug Dealing - Big yella"
+    },
+    {
+      "trend_id_hint": "how-dare-you",
+      "canonical_trend_name": "How Dare You?!",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A dramatic reality TV audio clip from Dance Moms featuring shouting and grievance airs.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@laneyyjoy/video/7547211252762791223"
+      ],
+      "sound_name": "original sound - 𝐁 𝐄 𝐓 𝐇 𝐀 𝐍 𝐘"
+    },
+    {
+      "trend_id_hint": "rare-aesthetic",
+      "canonical_trend_name": "Rare Aesthetic",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Evokes super-specific sensory memories and cozy vintage textures, cleanly mirroring the cafe's nostalgic Istanbul charm.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@anyassecrett.ac/video/7544545642484337950"
+      ],
+      "sound_name": "Gorof (Elixir) (feat. Sahra Dawo) - Dur Dur Band"
+    },
+    {
+      "trend_id_hint": "firefighter-method",
+      "canonical_trend_name": "Firefighter Method",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A preparation routine showing clothing laid out on the floor for fast departures, lacking narrative fit.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@malananavarre/video/7550747494154538271"
+      ],
+      "sound_name": "original sound - Briley King"
+    },
+    {
+      "trend_id_hint": "ocean-eyes-zoom",
+      "canonical_trend_name": "Ocean Eyes",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A personal beauty zoom effect specifically spotlighting eye pigmentation.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@brooklynandbailey/video/7550883278299925815"
+      ],
+      "sound_name": "original sound - billyrics"
+    },
+    {
+      "trend_id_hint": "unfortunately-i-do-love",
+      "canonical_trend_name": "Unfortunately I Do Love...",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Admits unapologetic love for an indulgent ritual or guilty pleasure, matching the brand beat of small luxuries.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@drjadeofficial/video/7550286763244211478"
+      ],
+      "sound_name": "Rocky Mountain Way - Joe Walsh"
+    },
+    {
+      "trend_id_hint": "i-know-ball",
+      "canonical_trend_name": "I Know Ball",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Aggressive boast shut-down format using sports vernacular to prove critics wrong.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@ryleerexx/video/7549249763330346254"
+      ],
+      "sound_name": "plug walk remix - julian"
+    },
+    {
+      "trend_id_hint": "boyfriend-glow-up",
+      "canonical_trend_name": "Boyfriend Glow-Up",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Personal couple before-and-after makeover montage showing romantic partner style overhauls.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@devita.haus/video/7548461988590947615"
+      ],
+      "sound_name": "original sound - user1836633838"
+    },
+    {
+      "trend_id_hint": "that-boy-is-corrupt",
+      "canonical_trend_name": "That Boy is Corrupt",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A rhythmic beat-sync tapping trend with no narrative structure or brand applicability.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@whotrynaeatmyazz/video/7548659310574816567"
+      ],
+      "sound_name": "original sound  - song lyrics ִ ࣪𖤐"
+    },
+    {
+      "trend_id_hint": "you-didnt-text-me",
+      "canonical_trend_name": "You Didn't Text Me!",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "An aggressive audio clip of yelling about missing out on information, clashing with Kahve Maya's unhurried peace.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@_ellaemmert/video/7545888794839502110"
+      ],
+      "sound_name": "Originalton - Funtastic™"
+    },
+    {
+      "trend_id_hint": "what-i-do-all-day",
+      "canonical_trend_name": "What I Do All Day",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A gentle visual wander documenting the tiny, comforting micro-rituals filling an ordinary day.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@leorealtoks/video/7524780554269494541"
+      ],
+      "sound_name": "original sound - nana.1"
+    },
+    {
+      "trend_id_hint": "life-with-her",
+      "canonical_trend_name": "Life With *Her*",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Uses tender cinematic audio and warm framing to highlight everyday sensory warmth and companionship.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@andy.and.michelle/video/7545193869575589134"
+      ],
+      "sound_name": "Planetarium - Justin Hurwitz"
+    },
+    {
+      "trend_id_hint": "gonna-miss-me-when-im-gone",
+      "canonical_trend_name": "Gonna Miss Me When I'm Gone",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Relies on a movie cup-song audio trend tied to personal absence and friendship dynamics.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@user1274937283/video/7544221778671881485"
+      ],
+      "sound_name": "Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version - Anna Kendrick"
+    },
+    {
+      "trend_id_hint": "la-dance-class",
+      "canonical_trend_name": "LA Dance Class",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A high-energy slapstick parody of commercial hip-hop dance studios with deliberate absurdism.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@madison.humphreyy/video/7504391358040345898"
+      ],
+      "sound_name": "Slum Anthem - K CAMP"
+    },
+    {
+      "trend_id_hint": "a-ok-with-me",
+      "canonical_trend_name": "A-Ok with Me",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A conspiratorial wink acknowledging secret contentment with breaking rigid hustle expectations for small pleasures.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@leanneinlife/video/7542839605754694934"
+      ],
+      "sound_name": "original sound - hails"
+    },
+    {
+      "trend_id_hint": "one-armed-pickup",
+      "canonical_trend_name": "One-Armed Pickup",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A physical couples gymnastics fitness challenge lacking narrative resonance.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@nikki_rodriguez/video/7541985229616057631"
+      ],
+      "sound_name": "All Night - Beyoncé"
+    },
+    {
+      "trend_id_hint": "conrad-vs-jeremiah",
+      "canonical_trend_name": "Conrad vs Jeremiah",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Fandom-locked teen drama debate comparing fictional television characters.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@papamurphys/video/7535528594517347639"
+      ],
+      "sound_name": "tsitp intro - ashyrami"
+    },
+    {
+      "trend_id_hint": "end-credits",
+      "canonical_trend_name": "End Credits",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A cinematic carousel jump cutting from past beginnings to present outcomes, great for illustrating the patience of craft.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@glutenus.maximus/video/7538639658985508109"
+      ],
+      "sound_name": "The Great Gig in the Sky - Pink Floyd"
+    },
+    {
+      "trend_id_hint": "catch-me",
+      "canonical_trend_name": "Catch Me",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A frantic mock police foot-chase running gag with high chaotic energy.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@emilapodniesinska/video/7531135562342862102"
+      ],
+      "sound_name": "Bad Boys (Theme from Cops) - Inner Circle"
+    },
+    {
+      "trend_id_hint": "hamilton-come-back-to-sleep",
+      "canonical_trend_name": "Hamilton \"Come Back to Sleep\"",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Lip-sync theatrical roleplay referencing Broadway musical characters.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@brooklynkaye/video/7534907396758490381"
+      ],
+      "sound_name": "Best of Wives and Best of Women - Phillipa Soo & Lin-Manuel Miranda"
+    },
+    {
+      "trend_id_hint": "biting-list",
+      "canonical_trend_name": "Biting list",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Dog behavior list listing perceived enemy triggers, non-transferable to cafe hospitality.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@gkobri/video/7533472135918996791"
+      ],
+      "sound_name": "Bitin' List - Tyler Childers"
+    },
+    {
+      "trend_id_hint": "turning-myself-into-a-ten",
+      "canonical_trend_name": "Turning Myself into a Ten",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Beauty makeover glamour transformation focused strictly on personal physical appearance rating tropes.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@limitededitionrhona/video/7531215525049912631"
+      ],
+      "sound_name": "Candy - Foxy Brown"
+    },
+    {
+      "trend_id_hint": "my-dream-rotation",
+      "canonical_trend_name": "My Dream Rotation",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A cannabis/hangout rotation meme naming celebrities and pop culture icons.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@annabarnesmusic/video/7534591105183108382"
+      ],
+      "sound_name": "original sound  - Mariah Careyxx"
+    },
+    {
+      "trend_id_hint": "nicki-minaj-pose",
+      "canonical_trend_name": "Nicki Minaj Pose",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "An acrobatic posing challenge imitating a music video freeze frame.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@lexibrookerivera/video/7530857428397739294"
+      ],
+      "sound_name": "High School - Nicki Minaj"
+    },
+    {
+      "trend_id_hint": "if-thats-okay",
+      "canonical_trend_name": "If That's Okay",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Politely and deadpan asking permission for utterly quiet, mundane acts like doing nothing or sipping tea.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@life.full.of.mac/video/7526381276425751839"
+      ],
+      "sound_name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\") - Justin Timberlake"
+    },
+    {
+      "trend_id_hint": "shes-iconic-iphone-case",
+      "canonical_trend_name": "She's Iconic, iPhone Case",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Direct parody of Hailey Bieber's Rhode phone-case accessory gimmick.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@themichaelbarrymore/video/7527680176105196822"
+      ],
+      "sound_name": "original sound - bluebebe"
+    },
+    {
+      "trend_id_hint": "i-got-a-text",
+      "canonical_trend_name": "I Got a Text",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Dramatic audio-sync quoting Love Island villa announcements with exaggerated hype.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@rowan_brown3/video/7528917242235473183"
+      ],
+      "sound_name": "original sound - Love Island"
+    },
+    {
+      "trend_id_hint": "throwing-a-fit",
+      "canonical_trend_name": "Throwing a Fit",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A fashion runway wordplay joke subverting tantrums into outfit displays.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@margauxscott/video/7528816986139266335"
+      ],
+      "sound_name": "Originalton - doni 🇦🇱"
+    },
+    {
+      "trend_id_hint": "bugatti-drag-prank",
+      "canonical_trend_name": "Bugatti",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A physical two-person slapstick prank yanking someone off their chair violently.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@calebnandrea/video/7524107435196419342"
+      ],
+      "sound_name": "original sound - Cadel and Mia"
+    },
+    {
+      "trend_id_hint": "i-grieve-different",
+      "canonical_trend_name": "I Grieve Different",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Focuses on sudden negative turns and sorrow rather than restorative, comforting resolutions.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@lucymemoryy/video/7524952541810019592"
+      ],
+      "sound_name": "original sound - Clipse ✟"
+    },
+    {
+      "trend_id_hint": "greatest-journey-of-your-life",
+      "canonical_trend_name": "You're in for the Greatest Journey of your Life",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Playfully elevates a niche sensory pursuit above mainstream milestones, ideal for celebrating pour-over coffee craft.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@kingchonce/video/7525635629435194655"
+      ],
+      "sound_name": "original sound - Amandahuntnkiss"
+    },
+    {
+      "trend_id_hint": "imma-be",
+      "canonical_trend_name": "Imma Be",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "An uptempo pop music sync cut showcasing fast daily routines with high kinetic tempo.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@tiamacarooni/video/7517595645000027414"
+      ],
+      "sound_name": "original sound - Abbey Engel"
+    },
+    {
+      "trend_id_hint": "back-to-the-computer",
+      "canonical_trend_name": "Back to the Computer",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Social media intern meta-humor revolving around checking video metrics compulsively.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@relutech/video/7518037803398188318"
+      ],
+      "sound_name": "original sound - Djerf Avenue"
+    },
+    {
+      "trend_id_hint": "my-dream-date",
+      "canonical_trend_name": "My Dream Date",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Love Island reality soundbite format centered on high-maintenance luxury date jealousy.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@kaylietmj19/video/7520983184650079518"
+      ],
+      "sound_name": "original sound - kimkardashianlover119"
+    },
+    {
+      "trend_id_hint": "go-treat-yourself",
+      "canonical_trend_name": "Go Treat Yourself",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A direct match for the small-luxury beat, staging modest personal indulgences as deeply satisfying self-care.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@sophiebrissman/video/7523744209388555534"
+      ],
+      "sound_name": "TAKE A MOMENT, TREAT YOURSELF! - VOISTA STUDIO"
+    },
+    {
+      "trend_id_hint": "its-not-clocking-to-you",
+      "canonical_trend_name": "It's Not Clocking to You",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Aggressive confrontation lip-sync using Justin Bieber dialogue about standing on business.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@user011703310/video/7517786816041209118"
+      ],
+      "sound_name": "Its not clocking to you - Chief Green Screens"
+    },
+    {
+      "trend_id_hint": "who-said-that",
+      "canonical_trend_name": "Who Said That",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Passive-aggressive dating and shade-throwing audio format calling out acquaintances.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@shereenadelgado/video/7517817766875761975"
+      ],
+      "sound_name": "original sound - Google Me 💋"
+    },
+    {
+      "trend_id_hint": "nice-to-meet-you",
+      "canonical_trend_name": "Nice to Meet You",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A simple handshake lip-sync to a pop song hook without story or structural progression.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@larabzzzzz/video/7517988501044890902"
+      ],
+      "sound_name": "Illegal - PinkPantheress"
+    },
+    {
+      "trend_id_hint": "little-something-to-take-the-edge-off",
+      "canonical_trend_name": "Little Something to Take the Edge Off",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A gentle visual subversion replacing a cigarette with a warm, comforting pour-over to decompress after rushing.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@pierson/video/7512119556718988586"
+      ],
+      "sound_name": "deep in it - berlioz"
+    },
+    {
+      "trend_id_hint": "im-a-mommy",
+      "canonical_trend_name": "\"I'm a Mommy\"",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Reality TV soundbite parodying Love Island dialogues about babies and drama.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@merc.yy/video/7515947782641995054"
+      ],
+      "sound_name": "MAMASITAAA - celebsnapz"
+    },
+    {
+      "trend_id_hint": "touch-me-again",
+      "canonical_trend_name": "Touch Me Again and You'll Find Out Who I Am",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Aggressive posture subversion that feels combative rather than calm and welcoming.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@freddythepickle/video/7514382057179647278"
+      ],
+      "sound_name": "original sound - The Fickle Pickle"
+    },
+    {
+      "trend_id_hint": "look-alike-genetics",
+      "canonical_trend_name": "Look Alike",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Personal family genetics showcase comparing parent and child facial features.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@brooklynandbailey/video/7511836965533175086"
+      ],
+      "sound_name": "оригинальный звук - 🫶🏻"
+    },
+    {
+      "trend_id_hint": "my-pet-peeve",
+      "canonical_trend_name": "My Pet Peeve",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A mild rant format highlighting small everyday sensory irritations, readily adapted to rushed bad coffee.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@britt.evryjewels/video/7512849227727473966"
+      ],
+      "sound_name": "original sound - princessa"
+    },
+    {
+      "trend_id_hint": "before-after-backpacking",
+      "canonical_trend_name": "Before & After Backpacking For 3 Months",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A structured before-and-after reveal contrasting a disheveled, fatigued state with restored grounded peace.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@inesraemusic/video/7513227746118487318"
+      ],
+      "sound_name": "origineel geluid - Pieter Valley"
+    },
+    {
+      "trend_id_hint": "yap-walk",
+      "canonical_trend_name": "Yap Walk",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "An unhurried stroll format focused on meandering, relaxed conversation over a takeaway cup.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@caseyis____/video/7510361733685349678"
+      ],
+      "sound_name": "orijinal ses - • 𝚁𝚊𝚑𝚒𝚋 o9 🐅"
+    },
+    {
+      "trend_id_hint": "okay-so",
+      "canonical_trend_name": "Okay so...?",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A multiple-choice confrontation skit in a car debating defensive comebacks.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@laneysspamy/video/7507020895672667423"
+      ],
+      "sound_name": "original sound - Sonya Sed"
+    },
+    {
+      "trend_id_hint": "propaganda-im-not-falling-for",
+      "canonical_trend_name": "Propaganda I'm Not Falling For",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A deadpan list rejecting cultural dogmas, easily positioned as refusing the modern pressure to rush through life.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@lil_sausage_patty/video/7505542373011721502"
+      ],
+      "sound_name": "I think about it all the time featuring bon iver - Charli xcx & Bon Iver"
+    },
+    {
+      "trend_id_hint": "get-out-alone-time",
+      "canonical_trend_name": "Get Out!",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Playfully protects personal quiet time and solitude, fitting the sacred coffee break ritual.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@thedonshotta_/video/7480724445917695274"
+      ],
+      "sound_name": "original sound - brando"
+    },
+    {
+      "trend_id_hint": "play-too-much",
+      "canonical_trend_name": "Play Too Much",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Office generational banter skit based on employee-manager miscommunication tropes.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@helloogilly/video/7499932221269364014"
+      ],
+      "sound_name": "someone to call my lover - ℳ"
+    },
+    {
+      "trend_id_hint": "ai-killed-duolingo",
+      "canonical_trend_name": "AI Killed Duolingo",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Corporate brand feud commentary specific to tech controversies and corporate PR battles.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@empirestatebldg/video/7501743719721340206"
+      ],
+      "sound_name": "original sound - Empire State Building"
+    },
+    {
+      "trend_id_hint": "i-still-imagine-like-this",
+      "canonical_trend_name": "I Still Imagine ___ Like This Btw",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Meme geography parody mocking cartoonish expectations of real-world places.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@bruh69943/video/7489626685567028511"
+      ],
+      "sound_name": "original sound  - pink_panther"
+    },
+    {
+      "trend_id_hint": "jingle-callout",
+      "canonical_trend_name": "Jingle",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A generic musical chime sound without distinct structural or narrative cues.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@rastastyleflowerchild/video/7498547334855642414"
+      ],
+      "sound_name": "som original  - ratobeto"
+    },
+    {
+      "trend_id_hint": "you-are-under-spells",
+      "canonical_trend_name": "You Are Under Spells!",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "De-influencing exposé format highlighting corporate scams and consumer fraud.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@somedumbbih/video/7503176843881811246"
+      ],
+      "sound_name": "original sound - zach"
+    },
+    {
+      "trend_id_hint": "mugged-at-hot-girl-walk",
+      "canonical_trend_name": "Mugged at Hot Girl Walk",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A robbery parody skit focused on embarrassing songs playing during a crime scenario.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@dylan_blanco/video/7499907188844989739"
+      ],
+      "sound_name": "Kiss Me - Sixpence None The Richer"
+    },
+    {
+      "trend_id_hint": "yes-you-can",
+      "canonical_trend_name": "Yes You Can",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "An argumentative reaction sound staging sharp interpersonal disagreement.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@sadiifr/video/7493373662154738987"
+      ],
+      "sound_name": "original sound - Maybe it's David"
+    },
+    {
+      "trend_id_hint": "party4u-cinematic",
+      "canonical_trend_name": "party4u",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "An atmospheric montage format setting nostalgic visuals to dreamlike music, suited for aesthetic café interludes.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@tylerdevinee/video/7495330006613232918"
+      ],
+      "sound_name": "original sound - ava"
+    },
+    {
+      "trend_id_hint": "third-person-narration",
+      "canonical_trend_name": "Narration",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "A storybook third-person narrative framing ordinary daily routines with cinematic patience and poetic distance.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@cocootina/video/7494343068812938518"
+      ],
+      "sound_name": "original sound - Jacobdior"
+    },
+    {
+      "trend_id_hint": "jaws-theme-side-eye",
+      "canonical_trend_name": "\"Jaws\" Theme",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Sneaky gossip reaction gag using movie suspense cues to eavesdrop on drama.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@devyoumans/video/7496929336294034734"
+      ],
+      "sound_name": "Jaws Main Theme (From \"Jaws\") - Geek Music"
+    },
+    {
+      "trend_id_hint": "long-hair-cries",
+      "canonical_trend_name": "Long Hair Cries",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A hair-flip slow motion aesthetic focused entirely on romanticizing crying sessions.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@brookemonk_/video/7493261107105238302"
+      ],
+      "sound_name": "good looking suki waterhouse - ♡brya"
+    },
+    {
+      "trend_id_hint": "omw-to-da-liqa-sto",
+      "canonical_trend_name": "omw to da liqa sto",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "Alcohol-centric liquor run gag clashing directly with brand safety guidelines against nightlife and alcohol.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@duolingo/video/7492080981868907818"
+      ],
+      "sound_name": "original sound - Cooper Ferrie"
+    },
+    {
+      "trend_id_hint": "live-an-uncomfortable-life",
+      "canonical_trend_name": "Live an uncomfortable life",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "rejected",
+      "reasoning": "A complaints-driven lip-sync dramatizing suffering and petty discomforts.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@emiliekiser/video/7488529450854862111"
+      ],
+      "sound_name": "original sound - Marc Walsh-Greene"
+    },
+    {
+      "trend_id_hint": "the-story-you-are-about-to-see",
+      "canonical_trend_name": "The Story You are About to See",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "An over-the-top dramatic prologue introducing a small, quiet, or delightfully humble craft accomplishment.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@elitereading/video/7489502701076647214"
+      ],
+      "sound_name": "Gnomeo and Juliette - huzzhogger"
+    },
+    {
+      "trend_id_hint": "probably-needed-a-hug",
+      "canonical_trend_name": "Probably Needed a Hug",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Substitutes comfort and emotional reassurance with a soothing personal treat, fitting the warm cafe haven narrative.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@alexuskianah/video/7487441696054086955"
+      ],
+      "sound_name": "original sound - music.rly"
+    },
+    {
+      "trend_id_hint": "god-forbid",
+      "canonical_trend_name": "God Forbid",
+      "merged_from_sources": [
+        "medianug"
+      ],
+      "status": "accepted",
+      "reasoning": "Uses smooth, relaxing soul music to defend modest daily indulgences and slow pleasures against hustle-culture guilt.",
+      "example_video_urls": [
+        "https://www.tiktok.com/@howdy22062/video/7490281967838104854"
+      ],
+      "sound_name": "Easy - Commodores"
+    }
+  ]
+}

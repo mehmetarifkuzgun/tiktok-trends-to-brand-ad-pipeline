@@ -1,0 +1,8 @@
+{
+  "video_id": "7670824295446088981",
+  "weighted_score": 4.05,
+  "threshold": 3.5,
+  "status": "accepted",
+  "reasoning_summary": "Weighted score 4.05 vs. threshold 3.5 -> accepted. Weakest criterion: licensing_safety (3/5 -- Contains visible third-party tech logos and commercial audio, requiring generic props and original sound for adaptation.)",
+  "scored_for_brand": "Kahve Maya"
+}

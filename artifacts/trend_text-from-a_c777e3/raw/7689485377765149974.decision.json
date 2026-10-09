@@ -1,0 +1,8 @@
+{
+  "video_id": "7689485377765149974",
+  "weighted_score": 4.45,
+  "threshold": 3.5,
+  "status": "accepted",
+  "reasoning_summary": "Weighted score 4.45 vs. threshold 3.5 -> accepted. Weakest criterion: hook_strength (4/5 -- The immediate on-screen callout grabs attention in the first half-second through punchy, relatable guilt-trip messaging.)",
+  "scored_for_brand": "Kahve Maya"
+}

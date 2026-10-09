@@ -1,0 +1,35 @@
+{
+  "video_id": "7677973717716077854",
+  "content_summary": "An office worker in sunglasses flips her hair and answers a desk phone, under text declaring that someone has to hold down mortgage lending instead of being an influencer.",
+  "narrative_skeleton": "Relatable text contrasts glamorous persona aspirations with an ordinary working role, paired with exaggerated confidence in an everyday setting.",
+  "hook_type": "comedy_skit",
+  "hook_timing_sec": 0.5,
+  "pacing": "fast",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "playful irony",
+  "scores": {
+    "narrative_transferability": {
+      "value": 5,
+      "reasoning": "The contrast template easily adapts to any profession, craft, or role."
+    },
+    "hook_strength": {
+      "value": 3,
+      "reasoning": "The humorous premise on-screen stops scrolling, though the visual execution is static."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Single static shot in a workspace requiring minimal props and no complex lighting."
+    },
+    "brand_fit": {
+      "value": 4,
+      "reasoning": "Offers playful self-aware humor regarding dedicated craft behind the espresso bar."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "Original concept is fully generic; only requires replacing the trending commercial audio."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

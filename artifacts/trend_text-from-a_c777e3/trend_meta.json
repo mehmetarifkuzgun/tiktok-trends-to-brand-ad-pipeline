@@ -1,0 +1,23 @@
+{
+  "trend_id": "trend_text-from-a_c777e3",
+  "trend_name": "Text From \"A\"",
+  "merged_from_sources": [
+    "ramdam",
+    "medianug"
+  ],
+  "reasoning": "A versatile deadpan reveal format that enables gentle self-aware humor exposing relatable daily habits like rushing or excessive screen time.",
+  "sound_name": "pll purposes only ty - demi devito",
+  "example_video_urls": [
+    "https://www.tiktok.com/@nia.lavine/video/7687395619169717534",
+    "https://www.tiktok.com/@xplamedi/video/7687334244154101024",
+    "https://www.tiktok.com/@desipaddy/video/7689485377765149974"
+  ],
+  "popularity_rank": 1,
+  "growth_signal": "unknown",
+  "source": "llm_prefilter_accepted",
+  "collected_at": "2026-10-09T11:18:36.839468+00:00",
+  "used_fallback": false,
+  "videos_fetched": 6,
+  "videos_failed": 0,
+  "fetched_at": "2026-10-09T11:19:44.396220+00:00"
+}

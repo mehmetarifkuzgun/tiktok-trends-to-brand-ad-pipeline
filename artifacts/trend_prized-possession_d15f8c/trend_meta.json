@@ -1,0 +1,20 @@
+{
+  "trend_id": "trend_prized-possession_d15f8c",
+  "trend_name": "Prized Possession",
+  "merged_from_sources": [
+    "medianug"
+  ],
+  "reasoning": "A flexible showcase format celebrating an item treated with extreme affection, perfectly applicable to staging coffee craft as a small luxury.",
+  "sound_name": "original sound - Angelo David",
+  "example_video_urls": [
+    "https://www.tiktok.com/@meg.k8/video/7678196941913607455"
+  ],
+  "popularity_rank": 4,
+  "growth_signal": "unknown",
+  "source": "llm_prefilter_accepted",
+  "collected_at": "2026-10-09T11:18:36.839468+00:00",
+  "used_fallback": false,
+  "videos_fetched": 1,
+  "videos_failed": 0,
+  "fetched_at": "2026-10-09T11:20:30.788257+00:00"
+}

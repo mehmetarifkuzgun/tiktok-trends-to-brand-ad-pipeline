@@ -1,0 +1,35 @@
+{
+  "video_id": "7687334244154101024",
+  "content_summary": "A woman sits in a dark room illuminated by her phone screen while dramatic notification audio plays, reading an on-screen text signed '- A' that calls out calling yourself a 'natural girl' simply because you can't do a full face of makeup, before looking away with a guilty, deadpan expression.",
+  "narrative_skeleton": "A character in low light looks at their phone screen -> on-screen text delivers a sharp, relatable callout exposing a secret habit or rationalization styled as an anonymous threatening text -> character reacts with a silent, caught-out glance.",
+  "hook_type": "POV",
+  "hook_timing_sec": 0.5,
+  "pacing": "medium",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "deadpan self-aware humor",
+  "scores": {
+    "narrative_transferability": {
+      "value": 5,
+      "reasoning": "The format of being exposed by an anonymous call-out text is completely modular and can be adapted to any relatable consumer habit, work habit, or lifestyle rationalization."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "The instant punchline text coupled with the tense audio cue creates an immediate stop-scroll effect driven by curiosity and relatable call-out humor."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Extremely simple to film: requires a single creator holding a phone in a dimly lit room with basic text overlay and a sound effect."
+    },
+    "brand_fit": {
+      "value": 4,
+      "reasoning": "Easily skin-able for gentle self-aware humor around modern daily habits, such as rushing through a busy day or rationalizing cold reheated coffee instead of taking a real pause."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "The structural premise is safe, but commercial ad usage must avoid the copyrighted Pretty Little Liars sound sting and replace it with generic dramatic notification audio."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

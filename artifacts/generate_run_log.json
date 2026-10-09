@@ -1,0 +1,28 @@
+[
+  {
+    "run_at": "2026-10-09T11:29:27+00:00",
+    "style": "ugc",
+    "model_tier": "fast",
+    "veo_model": "veo-3.1-fast-generate-preview",
+    "force": false,
+    "force_reference": false,
+    "trend_filter": [
+      "trend_i-did-nothing_1a50b5"
+    ],
+    "reference_override": null,
+    "wall_time_sec": 150.4,
+    "est_cost_this_run_usd": 1.2,
+    "cost_note": "Estimated from published per-second pricing; the API reports no cost.",
+    "outcomes": {
+      "trend_i-did-nothing_1a50b5": {
+        "status": "ok",
+        "script_sec": 10.9,
+        "video_sec": 139.2,
+        "final_video": "artifacts/trend_i-did-nothing_1a50b5/final_video.mp4",
+        "final_duration_sec": 12.0,
+        "clips_generated_this_run": 2,
+        "est_cost_this_run_usd": 1.2
+      }
+    }
+  }
+]

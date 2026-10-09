@@ -1,0 +1,35 @@
+{
+  "video_id": "7686784737423133972",
+  "content_summary": "Pop singer Adéla performs live in a pink studio set alongside a drummer, singing into a mic and dancing.",
+  "narrative_skeleton": "Stylized live music session showcase featuring a lead vocalist performing directly to camera supported by a live band.",
+  "hook_type": "other",
+  "hook_timing_sec": 1.0,
+  "pacing": "medium",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": true,
+  "emotional_tone": "upbeat, confident pop performance",
+  "scores": {
+    "narrative_transferability": {
+      "value": 1,
+      "reasoning": "Pure live musical showcase with no reusable commercial narrative arc."
+    },
+    "hook_strength": {
+      "value": 3,
+      "reasoning": "Vibrant pink aesthetic and immediate vocals catch attention but lack narrative intrigue."
+    },
+    "production_feasibility": {
+      "value": 2,
+      "reasoning": "Requires dedicated set design, multiple performers, instruments, and live audio production."
+    },
+    "brand_fit": {
+      "value": 1,
+      "reasoning": "Pop music performance contradicts the calm, slow-ritual identity of the brand."
+    },
+    "licensing_safety": {
+      "value": 1,
+      "reasoning": "Features copyrighted music, artist likeness, and Spotify Radar broadcast footage."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

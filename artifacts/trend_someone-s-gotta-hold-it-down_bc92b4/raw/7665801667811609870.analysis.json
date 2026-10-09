@@ -1,0 +1,35 @@
+{
+  "video_id": "7665801667811609870",
+  "content_summary": "A pink-haired singer performs high-energy hip-hop choreography with background dancers dressed in folk attire in front of a Hollywood sign, cutting to her hanging out of a modified sports car, with text overlay reading 'This part is so heavenly'.",
+  "narrative_skeleton": "A curated montage excerpt from a high-production music video showcasing dynamic choreography and aesthetics, framed by an admiring text caption.",
+  "hook_type": "other",
+  "hook_timing_sec": 1.0,
+  "pacing": "fast",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": true,
+  "emotional_tone": "energetic and stylish",
+  "scores": {
+    "narrative_transferability": {
+      "value": 1,
+      "reasoning": "The clip lacks an adaptable narrative structure; it is purely a visual and musical performance edit tailored around a specific pop star's music video."
+    },
+    "hook_strength": {
+      "value": 3,
+      "reasoning": "Visually striking styling and fast-paced dance cuts capture immediate visual interest, but rely on pre-existing celebrity appeal."
+    },
+    "production_feasibility": {
+      "value": 1,
+      "reasoning": "Recreating this requires high-budget music video production, coordinated group choreography, specialized wardrobe, and modified vehicles."
+    },
+    "brand_fit": {
+      "value": 1,
+      "reasoning": "High-energy, fast-paced music video dance cuts directly conflict with Kahve Maya's unhurried, calm, craft-centered ritual aesthetic."
+    },
+    "licensing_safety": {
+      "value": 1,
+      "reasoning": "Features copyrighted commercial music video footage and master audio recording that cannot be used in commercial advertising without clearance."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

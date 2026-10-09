@@ -1,0 +1,8 @@
+{
+  "video_id": "7687326560625397005",
+  "weighted_score": 3.55,
+  "threshold": 3.5,
+  "status": "accepted",
+  "reasoning_summary": "Weighted score 3.55 vs. threshold 3.5 -> accepted. Weakest criterion: brand_fit (2/5 -- Slapstick physical trend humor clashes with Kahve Maya's unhurried, calm ritual identity.)",
+  "scored_for_brand": "Kahve Maya"
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "7689485377765149974",
+  "content_summary": "A man in a car touches his chin in silent, deadpan contemplation under on-screen text delivering a relatable callout signed '- A' about transferring money back and forth from savings.",
+  "narrative_skeleton": "A direct anonymous callout text signed '- A' highlights a relatable, ironic habit -> silent deadpan reaction shot acknowledging the truth of the callout.",
+  "hook_type": "other",
+  "hook_timing_sec": 0.5,
+  "pacing": "slow",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "deadpan self-aware humor",
+  "scores": {
+    "narrative_transferability": {
+      "value": 5,
+      "reasoning": "The format relies solely on an anonymous callout statement paired with a pensive reaction; it can be adapted to virtually any relatable habit or topic."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "The immediate on-screen callout grabs attention in the first half-second through punchy, relatable guilt-trip messaging."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Extremely low production barrier: shot in a single static angle on a smartphone with one actor looking thoughtful and a text overlay."
+    },
+    "brand_fit": {
+      "value": 4,
+      "reasoning": "Naturally accommodates Kahve Maya's gentle self-aware humor around daily habits (e.g., claiming to pause for coffee while rushing or doomscrolling)."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "The visual concept and text trope carry no copyright restrictions, though an adaptation would require royalty-free or original audio instead of trending commercial sound."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

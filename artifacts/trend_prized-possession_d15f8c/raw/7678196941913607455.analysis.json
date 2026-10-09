@@ -1,0 +1,35 @@
+{
+  "video_id": "7678196941913607455",
+  "content_summary": "A creator holds up her rescue dog proudly to the camera while lip-syncing an enthusiastic quote boasting about a prized possession, accompanied by on-screen text reading 'when someone brings up my $25 pitbull'.",
+  "narrative_skeleton": "Prompt establishes an everyday trigger mentioning a prized bargain or cherished item -> creator enthusiastically showcases the item with exaggerated, unabashed pride.",
+  "hook_type": "POV",
+  "hook_timing_sec": 0.5,
+  "pacing": "fast",
+  "has_spoken_dialogue": true,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "playful pride",
+  "scores": {
+    "narrative_transferability": {
+      "value": 4,
+      "reasoning": "The core mechanic of playfully bragging about a cherished, high-value-to-owner item translates directly across numerous product categories."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "Immediate on-screen relatable text combined with an expressive facial delivery and front-facing subject hooks the viewer instantly."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Can be shot in a single take using a smartphone, a single actor, and a single prop in any everyday environment."
+    },
+    "brand_fit": {
+      "value": 4,
+      "reasoning": "Maps smoothly onto the 'small luxury' beat through gentle self-aware humor, such as someone obsessively bragging about their humble morning brew or favorite coffee mug."
+    },
+    "licensing_safety": {
+      "value": 3,
+      "reasoning": "The specific comedic audio is a viral meme sound from pop culture that cannot be directly reused in commercial advertising without licensing or re-recording original voiceover."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

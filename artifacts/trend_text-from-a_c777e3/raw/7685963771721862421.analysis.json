@@ -1,0 +1,35 @@
+{
+  "video_id": "7685963771721862421",
+  "content_summary": "Pop star Demi Lovato addresses a stadium concert audience, emotionally sharing that she had a hard day before thanking her fans and husband and performing a song.",
+  "narrative_skeleton": "A live performer delivers an emotional, vulnerable address to a crowd acknowledging hardship, thanks their supporters, and begins an emotional musical performance.",
+  "hook_type": "other",
+  "hook_timing_sec": 1.2,
+  "pacing": "slow",
+  "has_spoken_dialogue": true,
+  "has_onscreen_text": true,
+  "requires_specific_persona": true,
+  "emotional_tone": "vulnerable and heartfelt",
+  "scores": {
+    "narrative_transferability": {
+      "value": 2,
+      "reasoning": "The format is heavily reliant on a famous performer addressing a massive concert crowd, making it unnatural to transfer to commercial storytelling."
+    },
+    "hook_strength": {
+      "value": 3,
+      "reasoning": "An immediate emotional confession ('I had a really hard day') creates curiosity and empathy, though primarily for followers of the celebrity."
+    },
+    "production_feasibility": {
+      "value": 1,
+      "reasoning": "Recreating a stadium concert stage, lighting rig, large audience, and live vocal performance is extremely expensive and complex."
+    },
+    "brand_fit": {
+      "value": 1,
+      "reasoning": "A celebrity stadium concert performance does not fit Kahve Maya's quiet, intimate craft coffee ritual or calm brand beats."
+    },
+    "licensing_safety": {
+      "value": 1,
+      "reasoning": "Features world-famous singer Demi Lovato, copyrighted concert footage, and a copyrighted musical composition."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

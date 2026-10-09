@@ -1,0 +1,35 @@
+{
+  "video_id": "7687602399929765142",
+  "content_summary": "Two friends at a tram stop react to on-screen text prompts: one leaps into the other's arms upon seeing 'a spider', and then they reverse roles and flee when spotting 'a relationship'.",
+  "narrative_skeleton": "Two-beat physical contrast skit where an exaggerated rescue/fleeing reaction to a minor literal hazard is mirrored by the exact same reaction to a relatable emotional or social trigger.",
+  "hook_type": "comedy_skit",
+  "hook_timing_sec": 1.0,
+  "pacing": "fast",
+  "has_spoken_dialogue": false,
+  "has_onscreen_text": true,
+  "requires_specific_persona": false,
+  "emotional_tone": "playful humor",
+  "scores": {
+    "narrative_transferability": {
+      "value": 4,
+      "reasoning": "The two-part 'fleeing from X vs. fleeing from Y' structure is highly adaptable to various relatable everyday stresses, work situations, or lifestyle habits."
+    },
+    "hook_strength": {
+      "value": 4,
+      "reasoning": "Immediate physical action within the first second combined with clear on-screen setup grabs attention and drives quick comprehension."
+    },
+    "production_feasibility": {
+      "value": 5,
+      "reasoning": "Requires only two actors, a phone camera, and a simple everyday outdoor or indoor setting with no special lighting or editing needed."
+    },
+    "brand_fit": {
+      "value": 2,
+      "reasoning": "The abrupt physical slapstick and chaotic street humor clash with Kahve Maya's calm, slow, sensory aesthetic, even if the premise touches upon escaping daily stress."
+    },
+    "licensing_safety": {
+      "value": 4,
+      "reasoning": "The concept uses an easily replicable physical gag with no celebrity or proprietary IP; commercial reproduction would merely require original or royalty-free audio instead of the trending pop track."
+    }
+  },
+  "scored_for_brand": "Kahve Maya"
+}

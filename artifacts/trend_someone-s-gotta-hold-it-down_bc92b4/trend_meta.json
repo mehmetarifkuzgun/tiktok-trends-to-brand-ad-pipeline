@@ -1,0 +1,22 @@
+{
+  "trend_id": "trend_someone-s-gotta-hold-it-down_bc92b4",
+  "trend_name": "Someone's Gotta Hold It Down",
+  "merged_from_sources": [
+    "medianug",
+    "napoleoncat"
+  ],
+  "reasoning": "Celebrates the quiet dignity of unglamorous solitary craft while everyone else rushes off, fitting the brand's slow-ritual atmosphere perfectly.",
+  "sound_name": "Ain’t In LA - ADÉLA",
+  "example_video_urls": [
+    "https://www.tiktok.com/@dewitt.lending.te/video/7677973717716077854",
+    "https://www.tiktok.com/@maeyoww_/video/7670824295446088981"
+  ],
+  "popularity_rank": 3,
+  "growth_signal": "unknown",
+  "source": "llm_prefilter_accepted",
+  "collected_at": "2026-10-09T11:18:36.839468+00:00",
+  "used_fallback": false,
+  "videos_fetched": 5,
+  "videos_failed": 0,
+  "fetched_at": "2026-10-09T11:20:25.765461+00:00"
+}
